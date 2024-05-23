@@ -91,7 +91,7 @@ require_once("./modal.php");
             </div>
             <div class="mt-5">
                 <div class="row justify-content-center g-4">
-                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/static web.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Static Website</h4>
@@ -100,7 +100,7 @@ require_once("./modal.php");
                                 customer engagement.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Dynamic Websites</h4>
@@ -109,7 +109,7 @@ require_once("./modal.php");
                                 customer engagement.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Web Based Systems</h4>
@@ -118,7 +118,7 @@ require_once("./modal.php");
                                 customer engagement.</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Mobile Apps</h4>
@@ -132,6 +132,7 @@ require_once("./modal.php");
         </div>
     </div>
 </section>
+
 
     <!--affiliate feature end-->
 
