@@ -810,6 +810,8 @@ require_once("./links.php");
     </section>
     <!--feedback section end-->
 
+
+    <!-- Footer -->
     <?php
     require_once("./footer.php");
     ?>

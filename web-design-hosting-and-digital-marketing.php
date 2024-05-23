@@ -434,248 +434,116 @@ require_once("./modal.php");
 
     <!--affiliate feature start-->
     <section class="affiliate-feature pb-120">
-        <div class="container">
-
-            <div class="aff-feature-bottom pt-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-title">
-                            <h1 class="mb-0">Digital Marketing</h1>
+    <div class="container">
+        <div class="aff-feature-bottom pt-120">
+            <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-title">
+                        <h1 class="mb-0">Digital Marketing</h1>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
+                        <p class="mb-0"> We understand that every business is different, and that each has its own unique needs and goals.
+                            That's why we offer a variety of services and tailor our approach to each individual client.
+                            We want to make sure that you get the most out of your investment,
+                            and that you're happy with the results.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5">
+                <div class="row justify-content-center g-4">
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/seo.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">SEO</h4>
+                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
+                                engines such as Google Search. Be visible on top and let your competitors down the
+                                list.</p>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                            <p class="mb-0"> We understand that every business is different, and that each has its own unique needs and goals.
-                                That's why we offer a variety of services and tailor our approach to each individual client.
-                                We want to make sure that you get the most out of your investment,
-                                and that you're happy with the results.
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/analytic.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Website Analytic</h4>
+                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                review and mine data from your website to provide you with suggestions for better
+                                customer engagement.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/web enhancement.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Website Enhancement</h4>
+                            <p class="mb-0">By adding new pages, removing old links, fixing errors and upgrading
+                                systems' versions, we ensure your website is always up to date.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/whatsapp.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Whatsapp via your Website</h4>
+                            <p class="mb-0">We connect your WhatsApp Business Account to your Website. By this way,
+                                anyone who visit your website can reach you via whatsapp simply by only Clicking
+                                your number. For example; Click this +255 777 019901 to reach us on WhatsApp
+                                directly</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/chat.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">LIVE Chat via your Website</h4>
+                            <p class="mb-0">We do installation of the very responsive and interactive platforms that
+                                will enable you to chat with your customers direct from your website whenever they
+                                feel like asking you anything. By this way, you keep your customers close to you.
+                                For example; in this Website you will find the chating room at bottom right corner
+                                or simply click here
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="mt-5">
-                    <div class="row justify-content-center g-4">
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/seo.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">SEO</h4>
-                                <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                    engines such as Google Search. Be visible on top and let your competitors down the
-                                    list.</p>
-                            </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/social.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Social Media Monitoring</h4>
+                            <p class="mb-0">Social Media is a powerful tool for most businesses. We do monitoring
+                                and updating your social media accounts for the sake of expanding the market of your
+                                business. This includes making your account alive and interactive to your customers
+                                by keeping the account upto-date.</p>
                         </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/analytic.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Website Analytic</h4>
-                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                            </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/google.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Google My Business</h4>
+                            <p class="mb-0">Helps your Website rank better, Control your information and service
+                                offering, Verify and claim your Business on Google, improve your local SEO and
+                                increase your visibility on Google. We help you register your Business listing in
+                                Google.</p>
                         </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/web enhancement.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Website Enhancement</h4>
-                                <p class="mb-0">By adding new pages, removing old links, fixing errors and upgrading
-                                    systems' versions, we ensure your website is always up to date.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/whatsapp.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Whatsapp via your Website</h4>
-                                <p class="mb-0">We connect your WhatsApp Business Account to your Website. By this way,
-                                    anyone who visit your website can reach you via whatsapp simply by only Clicking
-                                    your number. For example; Click this +255 777 019901 to reach us on WhatsApp
-                                    directly</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/chat.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">LIVE Chat via your Website</h4>
-                                <p class="mb-0">We do installation of the very responsive and interactive platforms that
-                                    will enable you to chat with your customers direct from your website whenever they
-                                    feel like asking you anything. By this way, you keep your customers close to you.
-                                    For example; in this Website you will find the chating room at bottom right corner
-                                    or simply click here
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/social.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Social Media Monitoring</h4>
-                                <p class="mb-0">Social Media is a powerful tool for most businesses. We do monitoring
-                                    and updating your social media accounts for the sake of expanding the market of your
-                                    business. This includes making your account alive and interactive to your customers
-                                    by keeping the account upto-date.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/google.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Google My Business</h4>
-                                <p class="mb-0">Helps your Website rank better, Control your information and service
-                                    offering, Verify and claim your Business on Google, improve your local SEO and
-                                    increase your visibility on Google. We help you register your Business listing in
-                                    Google.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/live.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Live Video Streaming</h4>
-                                <p>also do live streaming videos of events such as meetings,
-                                    conventions or even some ethical (Acording to Zanzibar regulations & HASNET
-                                    protocols) ceremonies. The most common media we use for streaming is Youtube
-                                    Channel.</p>
-                            </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-xl-4 to col-xl-3 and added col-md-6 col-sm-12 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/live.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Live Video Streaming</h4>
+                            <p>also do live streaming videos of events such as meetings,
+                                conventions or even some ethical (Acording to Zanzibar regulations & HASNET
+                                protocols) ceremonies. The most common media we use for streaming is Youtube
+                                Channel.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
     <!--affiliate feature end-->
 
                 <!-- DIGITAL MARKETING ENDS HERE -->
 
 
-
-
-
-
-
-    <!-- Footer Area -->
-    <footer class="footer pt-100">
-        <div class="footer-top pb-60">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="footer-widget footer-widget-1">
-                            <a href="index.php" class="footer-logo"><img src="assets/img/logo-white-2.png" class="logo"
-                                    alt="logo"></a>
-                            <p class="text-white mt-30">We are specialized in ICT solution that relate to Website
-                                design, Database system development, Domain registration & Hosting, Digital marketing,
-                                Graphic design and Printing, CCTV Supply & Installation, Hardware maintenance,
-                                Networking, ICT Consultancy & Training. We also develop innovative ideas and make them
-                                happen.</p>
-                            <div class="footer-social mt-5">
-                                <h5 class="ft-subtitle text-white position-relative d-inline-block">Follow us on
-                                </h5>
-                                <ul class="social-nav mt-3">
-                                    <li><a href="#"
-                                            class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"
-                                            class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"
-                                            class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                class="fab fa-instagram"></i></a></li>
-                                    <li><a href="#"
-                                            class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                class="fab fa-linkedin"></i></a></li>
-                                                <li><a href="#"
-                                                    class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                        class="fab fa-whatsapp"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6">
-                        <div class="footer-widget footer-widget-2 mt-2">
-                            <h5 class="text-white position-relative mb-5 widget-title">Quick Links</h5>
-                            <ul class="footer-nav">
-                                <li><a href="index.php">Home</a></li>
-                                <!-- <li><a href="about.php">About</a></li> -->
-                                <li><a href="gallery.php">Portfolio</a></li>
-                                <li><a href="#">Buy Product</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6">
-                        <div class="footer-widget footer-widget-3 mt-2">
-                            <h5 class="text-white position-relative mb-5 widget-title">Services</h5>
-                            <ul class="footer-nav">
-                                <li><a href="web-design-hosting-and-digital-marketing.php">Web Design, Hosting & Digital Marketing</a></li>
-                                <li><a href="networking-and-digital-security.php">Networking & Digital Security</a></li>
-                                <li><a href="graphic-design-and-publish-printing.php">Graphic Design & Publish Printing</a></li>
-                                <li><a href="ict-hardware-supply-and-maintanance.php">ICT Hardware Supply, Installation & Maintanance</a></li>
-                     
-
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-8">
-                        <div class="footer-widget footer-sb-widget mt-2">
-                            <h5 class="text-white position-relative mb-5 widget-title">Get In Touch</h5>
-                            <form action="#" class="footer-sb-form position-relative">
-                                <input type="email" placeholder="Type Your Mail">
-                                <button type="submit" class="template-btn primary-btn btn-small">Subscribe</button>
-                            </form>
-                            <div class="ft-payment-method mt-40">
-                                <h5 class="text-white position-relative ft-subtitle d-inline-block">We Accepted</h5>
-                                <ul class="payment-list d-flex align-items-center mt-3">
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/visa.png" alt="visa" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/mastercard.png" alt="mastercard" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/payoneer.png" alt="payoneer" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/paypal.png" alt="paypal" class="img-fluid"></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-copyright">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <div class="copyright-txt text-white">
-                            <p class="mb-0">Copyright 2024 Hasnet ICT Solution . All Rights Reserved</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="copyright-links mt-2 mt-md-0 text-start text-md-end">
-                            <a href="#">Terms & Conditions</a>
-                            <a href="#" class="ml-20">Privacy Policy</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer> <!-- Footer Area End -->
-
-    </div>
-    <!-- main content wrapper ends -->
-
-
-    <!--build:js-->
-    <script src="assets/js/vendors/jquery.min.js"></script>
-    <script src="assets/js/vendors/popper.min.js"></script>
-    <script src="assets/js/vendors/bootstrap.min.js"></script>
-    <script src="assets/js/vendors/easing.min.js"></script>
-    <script src="assets/js/vendors/swiper.min.js"></script>
-    <script src="assets/js/vendors/massonry.min.js"></script>
-    <script src="assets/js/vendors/bootstrap-slider.js"></script>
-    <script src="assets/js/vendors/magnific-popup.js"></script>
-    <script src="assets/js/vendors/waypoints.js"></script>
-    <script src="assets/js/vendors/counterup.js"></script>
-    <script src="assets/js/vendors/isotop.pkgd.min.js"></script>
-    <script src="assets/js/vendors/countdown.min.js"></script>
-    <script src="assets/js/app.js"></script>
-    <!--endbuild-->
-</body>
-
-
-<!-- Mirrored from hostim-html.themetags.com/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 07 Oct 2022 06:22:57 GMT -->
-
-</html>
+ <!-- Footer -->
+ <?php
+    require_once("./footer.php");
+    ?>
