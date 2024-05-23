@@ -84,9 +84,9 @@ require_once("./modal.php");
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                            <!-- <p class="mb-0">We design, develop and modify both Websites and Database Systems.
-                                From collection of requirements, layout design, coding (implementation), testing and
-                                hosting all can be done at HASNET ICT Solution..</p> -->
+                        <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                    review and mine data from your website to provide you with suggestions for better
+                                    customer engagement.</p>
                         </div>
                     </div>
                 </div>
@@ -96,60 +96,37 @@ require_once("./modal.php");
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/static web.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Static Website</h4>
-                                <!-- <p class="mb-0">"A static website contains Web pages with fixed content. Each page is
-                                    coded in HTML and displays the same information to every visitor. Static sites are
-                                    the most basic type of website and are the easiest to create. Unlike dynamic
-                                    websites, they do not require any Web programming or database design"</p> -->
+                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                    review and mine data from your website to provide you with suggestions for better
+                                    customer engagement.</p>
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-12">
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Dynamic Websites</h4>
-                                <!-- <p class="mb-0">"A dynamic website contains information that changes, depending on the
-                                    viewer, the time of the day, the time zone, the viewer's native language, and other
-                                    factors. For example, the Computer Hope main page is a dynamic website that
-                                    automatically changes daily"</p> -->
+                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                    review and mine data from your website to provide you with suggestions for better
+                                    customer engagement.</p>
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-12">
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Web Based Systems</h4>
-                                <!-- <p class="mb-0">"A web-based application is any program that is accessed over a network
-                                    connection using HTTP, rather than existing within a device's memory. Web-based
-                                    applications often run inside a web browser.... Web-based applications are also
-                                    known as web apps"</p> -->
+                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                    review and mine data from your website to provide you with suggestions for better
+                                    customer engagement.</p>
                             </div>
                         </div>
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/os.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">OS & Programs Installation</h4>
-                                <!-- <p class="mb-0">We install OS (such as Windows 7,8,10 for all machine types [Laptops &
-                                    Desktops]) and program applications such Microsoft Office package (MS), Media
-                                    players, Antiviruses, Browsers and others for business, education, home or office
-                                    uses</p> -->
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/data rcovery.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Data Recovery</h4>
-                                <!-- <p class="mb-0">"In computing, data recovery is a process of salvaging (retrieving)
-                                    inaccessible, lost, corrupted, damaged or formatted data from secondary storage,
-                                    removable media or files, when the data stored in them cannot be accessed in a
-                                    normal way"
-                                </p> -->
-                            </div>
-                        </div>
+                       
                         <div class="col-xl-4 col-md-12">
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Mobile Apps</h4>
-                                <!-- <p class="mb-0">We do mobile apps development, which can be a responsive Website with
-                                    its Mobile App or a stand-alone Mobile App which can be either for Business or
-                                    Office uses</p> -->
+                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                    review and mine data from your website to provide you with suggestions for better
+                                    customer engagement.</p>
                             </div>
                         </div>
                     </div>
