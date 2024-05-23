@@ -46,7 +46,6 @@ require_once("./modal.php");
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
                         <a href="contact.php" class="template-btn primary-btn">Get Quote</a>
-                    </div>
 
 <!-- Get Quote Button -->
                           
@@ -56,6 +55,10 @@ require_once("./modal.php");
                             </button>
 
                             <!-- Get Quote Button -->
+
+                    </div>
+
+
 
                 </div>
                 <div class="col-lg-6 col-md-9">
