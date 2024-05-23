@@ -8,7 +8,7 @@
             <div class="row align-item-center">
                 <div class="col-md-6">
                     <div class="topbar-left">
-                        <p class="mb-0">Get 5% Discount Offer <mark>15 Days</mark></p>
+                        <p class="mb-0">Get 5% Discount Offer <mark>25 Days</mark></p>
                     </div>
                 </div>
                 <div class="col-md-6">
