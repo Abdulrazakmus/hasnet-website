@@ -49,7 +49,7 @@ require_once("./modal.php");
 
 <!-- Get Quote Button -->
                           
-<button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal">
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
                               <b>Get Quote</b>
                               
                             </button>
