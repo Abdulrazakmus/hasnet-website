@@ -34,9 +34,9 @@
                         <label for="serviceOption" class="form-label">Service Option:</label>
                         <select class="form-select" id="serviceOption" name="serviceOption" required>
                             <option value="" selected disabled>Select a service option</option>
+                            <option value="Web Design, Hosting & Digital Marketing">Web Design, Hosting & Digital Marketing</option>
                             <option value="Networking & Digital Securit">Networking & Digital Security</option>
                             <option value="Graphic Design & Publish Printing">Graphic Design & Publish Printing</option>
-                            <option value="Web Design, Hosting & Digital Marketing">Web Design, Hosting & Digital Marketing</option>
                             <option value="ICT Hardware Supply, Installation & Maintenance">ICT Hardware Supply, Installation & Maintenance</option>
                             <option value="other">Other</option>
                         </select>
