@@ -73,67 +73,66 @@ require_once("./modal.php");
 
     <!--affiliate feature start-->
     <section class="affiliate-feature pb-120">
-        <div class="container">
-
-            <div class="aff-feature-bottom pt-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-title">
-                            <h1 class="mb-0">Software Development</h1>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                        <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                        </div>
+    <div class="container">
+        <div class="aff-feature-bottom pt-120">
+            <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-title">
+                        <h1 class="mb-0">Software Development</h1>
                     </div>
                 </div>
-                <div class="mt-5">
-                    <div class="row justify-content-center g-4">
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/static web.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Static Website</h4>
-                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                            </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
+                        <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                            review and mine data from your website to provide you with suggestions for better
+                            customer engagement.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5">
+                <div class="row justify-content-center g-4">
+                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/static web.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Static Website</h4>
+                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                review and mine data from your website to provide you with suggestions for better
+                                customer engagement.</p>
                         </div>
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Dynamic Websites</h4>
-                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Dynamic Websites</h4>
+                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                review and mine data from your website to provide you with suggestions for better
+                                customer engagement.</p>
                         </div>
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Web Based Systems</h4>
-                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Web Based Systems</h4>
+                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                review and mine data from your website to provide you with suggestions for better
+                                customer engagement.</p>
                         </div>
-                       
-                        <div class="col-xl-4 col-md-12">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Mobile Apps</h4>
-                                <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                    review and mine data from your website to provide you with suggestions for better
-                                    customer engagement.</p>
-                            </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6"> <!-- Changed col-xl-4 to col-lg-3 and added col-md-6 -->
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Mobile Apps</h4>
+                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                                review and mine data from your website to provide you with suggestions for better
+                                customer engagement.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
     <!--affiliate feature end-->
 
 
