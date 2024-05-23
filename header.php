@@ -8,17 +8,17 @@
             <div class="row align-item-center">
                 <div class="col-md-6">
                     <div class="topbar-left">
-                        <p class="mb-0">Get 05% Discount Offer <mark>25 Days</mark></p>
+                        <p class="mb-0">Get 05% Discount Offer <mark>24 Days</mark></p>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="topbar-right text-end">
-                        <a href="#"><i class="fab fa-whatsapp"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                        <a href="login.php">Sign in</a>
+                    <a href="https://wa.me/255717323132" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://www.instagram.com/ict.hasnet/?hl=en"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/hasnet.ict.solution/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://x.com/i/flow/login?redirect_after_login=%2FICT_HasNet"><i class="fab fa-twitter"></i></a>
+                        <a href="https://tz.linkedin.com/in/hasnet-ict-solution-b80246210"><i class="fab fa-linkedin"></i></a>
+                        <a href="#">Sign in</a>
                         <!-- <a href="signup.php">Sign up</a> -->
                     </div>
                 </div>
@@ -168,8 +168,10 @@
                             </div>
                            
                             <div class="ofcanvus-btns next">
-                                <a href="#" class="ofcanvus-btn d-none d-lg-block"><i
-                                        class="fa-solid fa-bars-staggered"></i></a>
+                                <!-- <a href="#" class="ofcanvus-btn d-none d-lg-block"><i
+                                        class="fa-solid fa-bars-staggered"></i></a> -->
+
+
                                 <a href="#" class="mobile-menu-toggle d-lg-none"><i
                                         class="fa-solid fa-bars-staggered"></i></a>
                             </div>
@@ -223,10 +225,12 @@
     <p> +255 718 019901</p>
     <p>info@hasnet.co.tz</p>
     <div class="contact-social">
-        <a href="#"><i class="fab fa-facebook-f"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-instagram"></i></a>
-        <a href="#"><i class="fab fa-linkedin"></i></a>
+    <a href="https://wa.me/255717323132" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        <a href="https://www.instagram.com/ict.hasnet/?hl=en"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/hasnet.ict.solution/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://x.com/i/flow/login?redirect_after_login=%2FICT_HasNet"><i class="fab fa-twitter"></i></a>
+                        <a href="https://tz.linkedin.com/in/hasnet-ict-solution-b80246210"><i class="fab fa-linkedin"></i></a>
+                   <br>     <a href="#">Sign in</a>
     </div>
 </div>
 </div>

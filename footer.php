@@ -37,13 +37,13 @@
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6">
                         <div class="footer-widget footer-widget-2 mt-2">
-                            <h5 class="text-white position-relative mb-5 widget-title">Quick Links</h5>
+                            <h5 class="text-white position-relative mb-5 widget-title">Support</h5>
                             <ul class="footer-nav">
-                                <li><a href="index.php">Home</a></li>
-                                <!-- <li><a href="about.php">About</a></li> -->
-                                <li><a href="gallery.php">Portfolio</a></li>
-                                <li><a href="#">Buy Product</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="index.php">Company Profile</a></li>
+                                <li><a href="./assets/docs/Refund-Policy.pdf">Refund Policy</a></li>
+                                <li><a href="./assets/docs/Refund-Policy.pdf">Clients policy</a></li>
+                                <li><a href="./assets/docs/Copyright.pdf">Copyright</a></li>
+                                <li><a href="./assets/docs/FAQs.pdf">FAQs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -96,8 +96,8 @@
                     
                     <div class="col-md-6">
                         <div class="copyright-links mt-2 mt-md-0 text-start text-md-end">
-                            <a href="#">Terms & Conditions</a>
-                            <a href="#" class="ml-20">Privacy Policy</a>
+                            <a href="./assets/docs/Terms&Conditions.pdf">Terms & Conditions</a>
+                            <a href="./assets/docs/Privacy-Policy.pdf" class="ml-20">Privacy Policy</a>
                         </div>
                     </div>
                 </div>
