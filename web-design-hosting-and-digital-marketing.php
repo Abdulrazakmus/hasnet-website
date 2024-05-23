@@ -41,8 +41,8 @@ require_once("./modal.php");
             <div class="row align-items-center justify-content-between">
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
-                        <p class="fw-semibold lead position-relative">The software you need</p>
-                        <h1 class="display-3 fw-bold text-white mb-3">Better designs and functions</h1>
+                        <p class="fw-semibold lead position-relative">Website & Database System</p>
+                        <h1 class="display-3 fw-bold text-white mb-3">Better Designs and Functions</h1>
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Get Quote</a> -->
