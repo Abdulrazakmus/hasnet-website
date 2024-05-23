@@ -22,25 +22,7 @@ require_once("./links.php");
     <!--scrolltop button -->
     <button class="scrolltop-btn"><i class="fa-solid fa-angle-up"></i></button>
 
-    <!-- preloader start -->
-    <!-- <div class="loader-wrap">
-        <div class="preloader">
-            <div id="handle-preloader" class="handle-preloader">
-                <div class="animation-preloader">
-                    <div class="spinner"></div>
-                    <div class="txt-loading">
-                        <span data-text-preloader="H" class="letters-loading">H</span>
-                        <span data-text-preloader="A" class="letters-loading">A</span>
-                        <span data-text-preloader="S" class="letters-loading">S</span>
-                        <span data-text-preloader="N" class="letters-loading">N</span>
-                        <span data-text-preloader="E" class="letters-loading">E</span>
-                        <span data-text-preloader="T" class="letters-loading">T</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>  -->
-    <!-- preloader end -->
+    
 
    <!-- Header -->
    <?php
@@ -63,8 +45,18 @@ require_once("./modal.php");
                         <h1 class="display-3 fw-bold text-white mb-3">Better designs and functions</h1>
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
-                        <a href="contact.php" class="template-btn primary-btn">Contact Us</a>
+                        <a href="contact.php" class="template-btn primary-btn">Get Quote</a>
                     </div>
+
+<!-- Get Quote Button -->
+                          
+<button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                              <b>Get Quote</b>
+                              
+                            </button>
+
+                            <!-- Get Quote Button -->
+
                 </div>
                 <div class="col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-right">
