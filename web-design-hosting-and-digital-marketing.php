@@ -41,7 +41,7 @@ require_once("./modal.php");
             <div class="row align-items-center justify-content-between">
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
-                        <p class="fw-semibold lead position-relative">Website & Database System</p>
+                        <p class="fw-semibold lead position-relative">Website & Database Systems</p>
                         <h1 class="display-3 fw-bold text-white mb-3">Better Designs and Functions</h1>
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
@@ -148,20 +148,19 @@ require_once("./modal.php");
 
                                                             <!-- DOMAIN AND HOSTING  -->
 
-                                                            <!--hero section start-->
-        <section class="sh-hero-section position-relative bg-primary-gradient ptb-100 zindex-1 overflow-hidden">
-            <img src="assets/img/shapes/sh-hero-bg.png" alt="shape" class="position-absolute left-bottom">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 order-2 order-lg-1">
-                        <div class="sh-hero-left mt-5 mt-lg-0">
-                            <h1 class="display-font">We Provide Best Web Hosting Services</h1>
-
-                            <!-- --------search bar------------------ -->
-                    <section class="position-relative  zindex-1 overflow-hidden">
+                                                            <section class="sh-hero-section position-relative bg-primary-gradient ptb-100 zindex-1 overflow-hidden">
+    <img src="assets/img/shapes/sh-hero-bg.png" alt="shape" class="position-absolute left-bottom">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- Left Side Section -->
+            <div class="col-lg-6 order-lg-1">
+                <div class="sh-hero-left mt-5 mt-lg-0">
+                    <h1 class="display-font">We Provide Best Web Hosting Services</h1>
+                    <!-- Search bar -->
+                    <section class="position-relative zindex-1 overflow-hidden">
                         <div class="container">
                             <div class="row align-items-center">
-                                <div class="col-lg-7 order-2 order-lg-1">
+                                <div class="col-lg-7 order-lg-1">
                                     <div class="dm-hero-left">
                                         <form class="dm-hero-domain-form d-flex align-items-center">
                                             <input type="text" placeholder="Search">
@@ -179,59 +178,45 @@ require_once("./modal.php");
                             </div>
                         </div>
                     </section>
-                    <!-- ---------------------Search bar end----------------------------- -->
-
-                            <div class="wp-hero-list mt-20">
-                                <ul>
-                                    <li>
-                                        <span class="me-2">
-                                          <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                              <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
-                                          </svg>
-                                      </span>
-                                        Managed Performance, Security, & Updates
-                                    </li>
-                                    <li>
-                                        <span class="me-2">
-                                          <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                              <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
-                                          </svg>
-                                      </span>
-                                        Unhindered performance with your own server resources
-                                    </li>
-                                    <li>
-                                        <span class="me-2">
-                                          <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                              <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
-                                          </svg>
-                                      </span>
-                                        Expandable RAM & storage
-                                    </li>
-                                </ul>
-                            </div>
-                            <p class="lead mt-30 mb-30">Start Web Hosting at <mark>$51.19/year</mark></p>
-                            <a href="#get-started" class="template-btn primary-btn rounded-pill">Get Started Now</a>
-                        </div>
-                    </div>
-
-
-                    <!-- <div class="col-lg-6 order-1 order-lg-2">
-                        <div class="sh-hero-right">
-                            <img src="assets/img/domain/dot-com-white.png" alt="shape">
-                            <img src="assets/img/domain/cotz-white.png" alt="shape">
-                            <img src="assets/img/domain/org-white.png" alt="shape">
-                            <img src="assets/img/domain/online-white.png" alt="shape">
-                            <img src="assets/img/domain/net-white.png" alt="shape">
-
-
-
-
-                        </div>
-                    </div> -->
                 </div>
             </div>
-        </section>
-        <!--hero section end-->
+            <!-- Right Side Section -->
+            <div class="col-lg-6 order-lg-2">
+                <div class="wp-hero-list mt-20">
+                    <ul>
+                        <li>
+                            <span class="me-2">
+                                <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
+                                </svg>
+                            </span>
+                            Managed Performance, Security, & Updates
+                        </li>
+                        <li>
+                            <span class="me-2">
+                                <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
+                                </svg>
+                            </span>
+                            Unhindered performance with your own server resources
+                        </li>
+                        <li>
+                            <span class="me-2">
+                                <svg width="16" height="13" viewBox="0 0 16 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
+                                </svg>
+                            </span>
+                            Expandable RAM & storage
+                        </li>
+                    </ul>
+                    <p class="lead mt-30 mb-30">Start Web Hosting at <mark>$51.19/year</mark></p>
+                    <a href="#get-started" class="template-btn primary-btn rounded-pill">Get Started Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
        
 
