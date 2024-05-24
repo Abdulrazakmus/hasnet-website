@@ -152,7 +152,7 @@ require_once("./modal.php");
                                     <img src="assets/img/affiliate/envelope_5.jpg" width="250px;" alt="icon" class="img-fluid">
                                     <h4 class="mt-4 mb-20">Envelopes</h4>
                                     <p class="mb-0">We do design and printing of envelopes for office uses. It can be of any design you want,
-                                         this envlopes brand your Company in the most respectable way .</p>
+                                         this envlopes brand your Company in the most respectable way.</p>
                                 </div>
                             </div>
                                 <div class="col-xl-4 col-md-6">
