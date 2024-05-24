@@ -64,7 +64,18 @@ require_once("./modal.php");
                             Desktops) and its peripherals such Printers and Photocopy machines. Also we do maintenance
                             of other Computerized devices such as Bill counter machines etc.
                         </p>
-                        <a href="contact.php" class="template-btn primary-btn">Contact Us</a>
+                        <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
+ <!-- Get Quote Button -->
+                          
+ <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                              <b>Get Quote</b>
+                              
+                            </button>
+
+                            <!-- Get Quote Button -->
+
+
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-9">
@@ -80,6 +91,31 @@ require_once("./modal.php");
     <!--affiliate feature start-->
     <section class="affiliate-feature pb-120">
         <div class="container">
+
+        <div class="col-md-12 mt-5">
+    <div class="hm2-blog-card bg-white deep-shadow">
+        <div class="feature-img rounded-top overflow-hidden">
+            <img src="assets/img/affiliate/comp-accs.png" alt="feature" class="img-fluid" style="width: 100%; height: auto;">
+        </div>
+        <div class="hm2-blog-card-content position-relative">
+            <a href="#" class="tag-btn rounded-pill position-absolute">Computer Accessories</a>
+            <a href="#">
+                <h3 class="h5 mb-3">We provide ICT training to Organization for short term basis</h3>
+            </a>
+            <p>
+                This includes the use of new Technology Software or Devices
+                that have been adopted in the Organization. However, special
+                courses on MS Office packages and the foundation of Computer are also
+                provided for Organization.
+            </p>
+            <div class="bog-author d-flex align-items-center justify-content-between">
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+                       
 
             <div class="aff-feature-bottom pt-120">
                 <div class="row align-items-center">
@@ -97,7 +133,60 @@ require_once("./modal.php");
                 </div>
                 <div class="mt-5">
                     <div class="row justify-content-center g-4">
-                        <div class="col-xl-4 col-md-6">
+                        
+
+                        <div class="col-xl-6 col-md-6">
+                            <div class="aff-service-item text-center bg-white rounded">
+                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">POS</h4>
+                                <p class="mb-0">We do installation and configuration of Biometric device for the aim of
+                                    monitoring Employees' attendance and securing the accessibility of doors by using
+                                    fingerprint, password or RFID cards.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-md-6">
+                            <div class="aff-service-item text-center bg-white rounded">
+                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">IT Consultancy</h4>
+                                <p class="mb-0">We do installation and configuration of Biometric device for the aim of
+                                    monitoring Employees' attendance and securing the accessibility of doors by using
+                                    fingerprint, password or RFID cards.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-md-6">
+                            <div class="aff-service-item text-center bg-white rounded">
+                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Training</h4>
+                                <p class="mb-0">We do installation and configuration of Biometric device for the aim of
+                                    monitoring Employees' attendance and securing the accessibility of doors by using
+                                    fingerprint, password or RFID cards.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-md-6">
+                            <div class="aff-service-item text-center bg-white rounded">
+                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Data Storage & Cloud Backup</h4>
+                                <p class="mb-0">We do installation and configuration of Biometric device for the aim of
+                                    monitoring Employees' attendance and securing the accessibility of doors by using
+                                    fingerprint, password or RFID cards.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="col-xl-6 col-md-6">
+                            <div class="aff-service-item text-center bg-white rounded">
+                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Power Backup</h4>
+                                <p class="mb-0">We do installation and configuration of Biometric device for the aim of
+                                    monitoring Employees' attendance and securing the accessibility of doors by using
+                                    fingerprint, password or RFID cards.</p>
+                            </div>
+                        </div>
+
+                        <!-- <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Biometric Attendance & Access Controlers</h4>
@@ -105,53 +194,12 @@ require_once("./modal.php");
                                     monitoring Employees' attendance and securing the accessibility of doors by using
                                     fingerprint, password or RFID cards.</p>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Laptop maintenace</h4>
-                                <p class="mb-0">We do troubleshooting and maintenance of Laptops of all kinds and for
-                                    all type of problems, such as screen display, overheat, power problems, disk failure
-                                    and others.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Desktop maintenance</h4>
-                                <p class="mb-0">We do troubleshooting and maintenance of Desktop computers of all kinds
-                                    and for all type of problems, such as screen display, overheat, power problems, disk
-                                    failure and others.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/os.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Bill counter machines</h4>
-                                <p class="mb-0">We do service, troubleshooting and repair of Curreny/Bill (Money)
-                                    counter machines of all kinds and for all type of problems, such as note jump, note
-                                    hault and bearing problems.</p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/data rcovery.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Printer maintenance</h4>
-                                <p class="mb-0">We do service, troubleshooting and repair of ink jet and laser jet
-                                    printers for all type of problems, such as header failure and ink distortion
+                        </div> -->
 
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-md-6">
-                            <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Photocopy machines maintenance</h4>
-                                <p class="mb-0">We do service, troubleshooting and repair of Photocopy machines of all
-                                    kinds and for all type of problems, such as color distortion and belt problems.</p>
-                            </div>
-                        </div>
+
+                        
+                       
+                       
                     </div>
                 </div>
             </div>
@@ -162,128 +210,17 @@ require_once("./modal.php");
 
 
                         <!-- CONSULTANCY SECTION START HERE -->
-<!--breadcrumb area start-->
-<section class="breadcrumb-area bg-primary-gradient">
-    <div class="container">
-        <div class="breadcrumb-content text-center">
-            <h2 class="mb-3">ICT Consultancy & Training</h2>
-            <nav>
-                <p style="text-align: center;">
-                    We are flying together, we never left any of our customer behind. 
-                     We are brightening your future, we listen and we care your ICT headache,
-                     and finally provide you a better antibiotic of your ICT problems.
-                </p>
-            </nav>
-        </div>
-    </div>
-</section>
-<!--breadcrumb area end-->
+
 
 <!--blog grid start-->
-<section class="hm-blog-grids pt-120 pb-120 overflow-hidden">
+<section class="hm-blog-grids pt-12 pb-120 overflow-hidden">
     <div class="container">
-        <div class="row g-5">
-            <div class="col-xl-8">
-                <div class="hm-blog-grid-left">
-                    <div class="row g-4">
-                        <div class="col-md-12">
-                            <div class="hm2-blog-card bg-white deep-shadow">
-                                <div class="feature-img rounded-top overflow-hidden">
-                               <img src="assets/img/blog-list-1.jpg" alt="feature" class="img-fluid">
-                                </div>
-                                <div class="hm2-blog-card-content position-relative">
-                                    <a href="#" class="tag-btn rounded-pill position-absolute">Consulting</a>
-                                    <a href="#">
-
-                                        <h3 class="h5 mb-3">Consultancy on improving your Business Efficieny!</h3>
-                                    </a>
-                                    <p> 
-                                        Are you new to business? Do you want to explore your business 
-                                        to the world but you don't know how? Are you looking for more customers to engage with? Did you know, 
-                                        ICT can protect your capital and project your business income for more than 80%?
-                                    </p>
-
-                                    <p>
-                                        This is what we can do for your Business:
-                                        <br>
-Maximizing profit <br>
-Cutting down cost and better management of resources<br>
-Systematically organizing your Company’s work and employees through ICT<br>
-Stay close with your customers<br>
-How to use ICT in general for betterment of your company<br>
-And much more...
-                                    </p>
-                                    <hr class="spacer mt-20 mb-20">
-                                    <!-- <div class="bog-author d-flex align-items-center justify-content-between">
-                                        <div class="d-inline-flex align-items-center">
-                                            <img src="assets/img/home2/client-1.png" alt="author" class="img-fluid rounded-circle">
-                                            <h6 class="ms-2 mb-0">Wade Warren</h6>
-                                        </div>
-                                        <span class="date">2 Days Ago</span>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-12">
-                            <div class="hm2-blog-card bg-white deep-shadow">
-                                <div class="feature-img rounded-top overflow-hidden">
-                                   <img src="assets/img/blog-list-1.jpg" alt="feature" class="img-fluid">
-                                </div>
-                                <div class="hm2-blog-card-content position-relative">
-                                    <a href="#" class="tag-btn rounded-pill position-absolute">ICT Training</a>
-                                    <a href="#">
-
-                                        <h3 class="h5 mb-3">We provide ICT training to Organization for short term basis</h3>
-                                    </a>
-                                    <p> 
-                                        This icludes, the use of new Technology Software or Devices 
-                                        that has been adobted in the Organization. However, special 
-                                        courses of MS Office packages and foundation of Computer is also
-                                         provided for Organization.
-                                    </p>
-                                    <hr class="spacer mt-20 mb-20">
-                                    <!-- <div class="bog-author d-flex align-items-center justify-content-between">
-                                        <div class="d-inline-flex align-items-center">
-                                            <img src="assets/img/home2/client-1.png" alt="author" class="img-fluid rounded-circle">
-                                            <h6 class="ms-2 mb-0">Wade Warren</h6>
-                                        </div>
-                                        <span class="date">2 Days Ago</span>
-                                    </div> -->
-                                </div>
-                            </div>
-                        </div>
-                       
-                        
-                        
-
-                    </div>
-                   
-                </div>
-            </div>
-            <div class="col-xl-4">
-                <div class="hm-blog-sidebar mt-4 mt-xl-0">
-                   
-                    <!-- categories start -->
-                    <div class="sidebar-widget categories-widget">
-                        <h4 class="widget-title">Categories</h4>
-                       
-                        <ul class="mt-30">
-                            <li><a href="#">Marketing & Advertisement</a></li>
-                            <li><a href="#">Customer care</a></li>
-                            <li><a href="#">ICT Services & Devices</a></li>
-                            <li><a href="#">Technology & Innovation</a></li>
-                        </ul>
-
-                    </div>
-                    <!-- categories end -->
-
-        
-
-                    <!-- Our services -->
+        <div class="row">
+            
+                  
                     <div class="sidebar-widget tags-widget">
                         <h4 class="widget-title">Our Services.</h4>
-                        <div class="tags-list mt-30">
+                        <div class="tags-list mt-3">
                             <a href="software-development.php">software Development</a>
                             <a href="domainandhosting.php">Domain & Hosting</a>
                             <a href="digital-marketing.php">Digital Marketing</a>
@@ -308,11 +245,13 @@ And much more...
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
+
+
         </div>
     </div>
 </section>
+
+
  <!-- Footer -->
  <?php
     require_once("./footer.php");
