@@ -42,7 +42,7 @@ require_once("./modal.php");
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
                         <p class="fw-semibold lead position-relative">Website & Database Systems</p>
-                        <h1 class="display-3 fw-bold text-white mb-3">Better Designs and Functions</h1>
+                        <h1 class="display-3 fw-bold text-white mb-3">Better Designs <br> & Functions</h1>
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Get Quote</a> -->
@@ -83,9 +83,12 @@ require_once("./modal.php");
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                        <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                            review and mine data from your website to provide you with suggestions for better
-                            customer engagement.</p>
+                       
+
+
+                            <p class="mb-0"> We understand that every business is different, and that each has its own unique needs and goals.
+                            That's why we offer a variety of designing techniques to each individual client.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -95,36 +98,28 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/static web.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Static Website</h4>
-                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                review and mine data from your website to provide you with suggestions for better
-                                customer engagement.</p>
+                            <p class="mb-0">A static website shows the same content to every visitor. It is reliable and fast, making it a great choice for businesses that want a simple and efficient online presence.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/dynamic web.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Dynamic Websites</h4>
-                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                review and mine data from your website to provide you with suggestions for better
-                                customer engagement.</p>
+                            <p class="mb-0">A dynamic website can be updated automatically and offer personalized experiences, making it a great choice for businesses that want an interactive and flexible online presence.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/web app.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Web Based Systems</h4>
-                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                review and mine data from your website to provide you with suggestions for better
-                                customer engagement.</p>
+                            <p class="mb-0">These are online tools you can access through a web browser. They make it easy to manage information from any device with internet access, offering flexibility and convenience for your business needs.</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12"> <!-- Changed col-lg-3 to col-xl-3 and added col-md-6 col-sm-12 -->
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/mobile .png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Mobile Apps</h4>
-                            <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
-                                review and mine data from your website to provide you with suggestions for better
-                                customer engagement.</p>
+                            <p class="mb-0">We specialize in crafting mobile apps for various needs, whether it's Android or iOS platforms, ensuring your app reaches users on their preferred devices.</p>
                         </div>
                     </div>
                 </div>
@@ -155,15 +150,17 @@ require_once("./modal.php");
             <!-- Left Side Section -->
             <div class="col-lg-4 order-lg-1">
                 <div class="sh-hero-left mt-5 mt-lg-0">
-                    <h1 class="display-font">Hosting Services</h1>
+                    <h1 class="display-font">Domain & Hosting</h1>
                     <!-- Search bar -->
                     <section class="position-relative zindex-1 overflow-hidden">
                         <div class="container">
                             <div class="row align-items-center">
                                 <div class="col-lg-7 order-lg-1">
+
+                                
                                     <div class="dm-hero-left">
                                         <form class="dm-hero-domain-form d-flex align-items-center">
-                                            <input type="text" placeholder="Search">
+                                            <input type="text" placeholder="Domain">
                                             <!-- <select class="form-select">
                                                 <option value="1">.com</option>
                                                 <option value="2">.net</option>
@@ -171,7 +168,7 @@ require_once("./modal.php");
                                                 <option value="4">.dev</option>
                                                 <option value="5">.co.tz</option>
                                             </select> -->
-                                            <input type="submit" value="Search Now" class="template-btn secondary-btn border-0 flex-shrink-0">
+                                            <input type="submit" value="Search" class="template-btn secondary-btn border-0 flex-shrink-0">
                                         </form>
                                     </div>
                                 </div>
@@ -180,7 +177,7 @@ require_once("./modal.php");
                     </section>
                 </div>
             </div>
-            <!-- Right Side Section -->
+            <!-- Right Side Section --> 
             <div class="col-lg-4 order-lg-2 text-center mt-5">
                 <div class="wp-hero-list mt-20">
                     <ul>
@@ -190,7 +187,7 @@ require_once("./modal.php");
                                     <path d="M7.29784 12.9999C7.24944 12.9999 7.20157 12.9906 7.15723 12.9727C7.11289 12.9548 7.07304 12.9287 7.04019 12.8959L0.093221 5.96473C0.0469107 5.91852 0.0162099 5.86086 0.00487599 5.79881C-0.00645791 5.73676 0.00206669 5.673 0.0294066 5.61535C0.0567465 5.5577 0.101716 5.50865 0.15881 5.4742C0.215905 5.43976 0.282649 5.42141 0.350872 5.42141H3.69476C3.74497 5.42142 3.79459 5.43135 3.84028 5.45055C3.88596 5.46975 3.92665 5.49777 3.95961 5.53271L6.28131 7.99636C6.53222 7.50165 7.01795 6.67793 7.87031 5.6742C9.13039 4.19033 11.4742 2.00802 15.4842 0.0379785C15.5617 -9.01509e-05 15.6519 -0.00997048 15.7369 0.0102886C15.8219 0.0305477 15.8956 0.0794735 15.9434 0.147405C15.9912 0.215337 16.0097 0.297336 15.9952 0.377211C15.9806 0.457086 15.9341 0.529031 15.8649 0.578839C15.8496 0.589875 14.3035 1.71289 12.5241 3.76989C10.8865 5.66284 8.70954 8.7581 7.63834 12.754C7.61952 12.8242 7.57575 12.8866 7.51402 12.9312C7.45229 12.9758 7.37614 13 7.29774 13L7.29784 12.9999Z" fill="white"/>
                                 </svg>
                             </span>
-                            Expandable RAM & storage
+                            Full cPanel Access
                         </li>
                         
                         <li>
@@ -215,19 +212,23 @@ require_once("./modal.php");
                     </ul>
                     <!-- <p class="lead mt-30 mb-30">Start Web Hosting at <mark>$51.19/year</mark></p> -->
 
-                    <a href="#"class="template-btn secondary-btn rounded-pill mt-5">Get Started Now</a>
+                    <a href="#"class="template-btn secondary-btn rounded-pill mt-5">Register Your Domain Today</a>
                 </div>
             </div>
 
-            <div class="col-lg-4 order-lg-2 text-center mt-5"> <!-- Added class: text-center -->
-    <div class="wp-hero-list mt-20">
-        <img src="./assets/img/tznic-logo.png" alt="" width="150px">
+            <div class="col-lg-4 order-lg-2 mt-5"> 
+    <div class="wp-hero-list mt-20 text-lg-left text-center">
+        <a href="https://karibu.tz/domains/registrars/" target="_blank">
+            <img src="./assets/img/tznic-logo.png" alt="TZNIC Logo" width="150px" class="mx-lg-0 mx-auto">
+        </a>
     </div>
 </div>
+
 
         </div>
     </div>
 </section>
+
 
 
        
@@ -235,11 +236,14 @@ require_once("./modal.php");
 <section class="sh-pricing pb-120 position-relative zindex-1 overflow-hidden">
     <img src="assets/img/shapes/sh-pricing-bg.png" alt="pricing bg" class="position-absolute right-bottom">
     <div class="container position-relative zindex-1">
+
+
         <span class="sh-pricing-circle position-absolute"></span>
         <span class="sh-pricing-circle-red position-absolute"></span>
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <div class="sh-pricing-top text-center">
+                <h6 class="h5 mt-5 mb-0"><em>Get Your Domain Today, Starting From TZS 25,000 /Year</em></h6>
                     <div class="sh-section-title text-center">
                     </div>
                 </div>
@@ -247,11 +251,16 @@ require_once("./modal.php");
         </div>
        
         <div class="row mt-5 justify-content-center g-4" id="get-started">
+        <h1 class="display-font text-center">Hosting Packages</h1>
+
             <div class="col-12 col-sm-6 col-lg-4">
                 <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Start Up</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 120,000<span>/Year</span></h4>
+                <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+
+                    <h3 class="h5">Start Up Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 95,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 120,000 /Year</span></h4>
+
                     <ul class="feature-list mt-4">
                         <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>1 GB Storage</li>
                         <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 10 GB</li>
@@ -264,24 +273,26 @@ require_once("./modal.php");
                     </ul>
                     <br>
                     <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
                     </p>
                     <p>
                         For International Domains (.com)
                         <br>
-                        50,000 TZS ($ 21.74) /Year
+                        50,000 TZS /Year
                     </p>
+
+                    <p>All Prices Are VAT Exlusive</p>
                     <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
                 </div>
             </div>
 
             <div class="col-12 col-sm-6 col-lg-4">
                 <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Gold</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 170,000<span>/Year</span></h4>
+                    <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+                    <h3 class="h5">Gold Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 145,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 170,000 /Year</span></h4>
+
                     <ul class="feature-list mt-4">
                         <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>2 GB Storage</li>
                         <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 20 GB</li>
@@ -294,14 +305,12 @@ require_once("./modal.php");
                     </ul>
                     <br>
                     <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
                     </p>
                     <p>
                         For International Domains (.com)
                         <br>
-                        50,000 TZS ($ 21.74) /Year
+                        50,000 TZS /Year
                     </p>
                     <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
                 </div>
@@ -309,9 +318,11 @@ require_once("./modal.php");
 
             <div class="col-12 col-sm-6 col-lg-4">
                 <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Premium</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 210,000<span>/Year</span></h4>
+                    <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+                    <h3 class="h5">Premium Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 185,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 210,000 /Year</span></h4>
+
                     <ul class="feature-list mt-4">
                         <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>3 GB Storage</li>
                         <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 30 GB</li>
@@ -324,14 +335,12 @@ require_once("./modal.php");
                     </ul>
                     <br>
                     <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
                     </p>
                     <p>
                         For International Domains (.com)
                         <br>
-                        50,000 TZS ($ 21.74) /Year
+                        50,000 TZS /Year
                     </p>
                     <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
                 </div>
@@ -339,89 +348,89 @@ require_once("./modal.php");
 
             <div class="col-12 col-sm-6 col-lg-4">
                 <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Premium</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 240,000<span>/Year</span></h4>
+                    <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+                    <h3 class="h5">Silver Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 215,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 240,000 /Year</span></h4>
+
+                    <ul class="feature-list mt-4">
+                        <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>4 GB Storage</li>
+                        <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 40 GB</li>
+                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 30</li>
+                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 200</li>
+                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 20</li>
+                        <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 20</li>
+                        <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
+                        <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
+                    </ul>
+                    <br>
+                    <p>
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
+                    </p>
+                    <p>
+                        For International Domains (.com)
+                        <br>
+                        50,000 TZS /Year
+                    </p>
+                    <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-lg-4">
+                <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
+                    <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+                    <h3 class="h5">Diamond Hosting Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 235,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 260,000 /Year</span></h4>
+
+                    <ul class="feature-list mt-4">
+                        <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>5 GB Storage</li>
+                        <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 50 GB</li>
+                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 25</li>
+                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 250</li>
+                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 25</li>
+                        <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 25</li>
+                        <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
+                        <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
+                    </ul>
+                    <br>
+                    <p>
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
+                    </p>
+                    <p>
+                        For International Domains (.com)
+                        <br>
+                        50,000 TZS /Year
+                    </p>
+                    <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-lg-4">
+                <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
+                    <span class="popular-badge text-center d-inline-block position-absolute"><b>free .co.tz</b></span>
+                    <h3 class="h5">Golden Hosting Package</h3>
+                    <h4 class="h2 mt-2 monthly-price">TZS 245,000<span>/Year</span></h4>
+                    <h4 class="monthly-price"><span>From 2nd Year TZS 270,000 /Year</span></h4>
+
                     <ul class="feature-list mt-4">
                         <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>6 GB Storage</li>
                         <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 60 GB</li>
-                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 30</li>
-                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 300</li>
-                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 30</li>
+                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 300</li>
+                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 30</li>
+                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 75</li>
                         <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 30</li>
                         <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
                         <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
                     </ul>
                     <br>
                     <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
+                     A <b>free .co.tz</b> domain for the first year! <br> Renewal price is TZS 25,000 /Year.                        
                     </p>
                     <p>
                         For International Domains (.com)
                         <br>
-                        50,000 TZS ($ 21.74) /Year
-                    </p>
-                    <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
-                </div>
-            </div>
-
-            <div class="col-12 col-sm-6 col-lg-4">
-                <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Premium</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 370,000<span>/Year</span></h4>
-                    <ul class="feature-list mt-4">
-                        <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>10 GB Storage</li>
-                        <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 100 GB</li>
-                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 50</li>
-                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 500</li>
-                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 50</li>
-                        <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 50</li>
-                        <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
-                        <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
-                    </ul>
-                    <br>
-                    <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
-                    </p>
-                    <p>
-                        For International Domains (.com)
-                        <br>
-                        50,000 TZS ($ 21.74) /Year
-                    </p>
-                    <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
-                </div>
-            </div>
-
-            <div class="col-12 col-sm-6 col-lg-4">
-                <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
-                    <span class="popular-badge text-center d-inline-block position-absolute">Free .co.tz</span>
-                    <h3 class="h5">Corporate</h3>
-                    <h4 class="h2 mt-2 monthly-price">TZS 450,000<span>/Year</span></h4>
-                    <ul class="feature-list mt-4">
-                        <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>15 GB Storage</li>
-                        <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 150 GB</li>
-                        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 75</li>
-                        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 750</li>
-                        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 75</li>
-                        <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 75</li>
-                        <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
-                        <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
-                    </ul>
-                    <br>
-                    <p>
-                        For .tz Domains 30,000 TZS 
-                        <br>
-                        ($ 13.04) /Year
-                    </p>
-                    <p>
-                        For International Domains (.com)
-                        <br>
-                        50,000 TZS ($ 21.74) /Year
+                        50,000 TZS /Year
                     </p>
                     <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
                 </div>
@@ -430,39 +439,51 @@ require_once("./modal.php");
             <div class="col-12 col-sm-12 col-lg-12">
 
 
-            <!-- Email Hosting -->
-    
-<div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow text-center">
-    <span class="popular-badge text-center d-inline-block position-absolute">Offer!</span>
-    <h3 class="h5">Email Hosting</h3>
-    <h4 class="h2 mt-2 monthly-price">TZS 450,000<span>/Year</span></h4>
-    <ul class="feature-list mt-4">
-        <li><span class="me-2"><i class="fa-solid fa-rocket"></i></span>15 GB Storage</li>
-        <li><span class="me-2"><i class="fa-solid fa-globe"></i></span>Monthly Bandwidth 150 GB</li>
-        <li><span class="me-2"><i class="fa-solid fa-window-maximize"></i></span>Max FTP Accounts 75</li>
-        <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 750</li>
-        <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Max Database 75</li>
-        <li><span class="me-2"><i class="fa-solid fa-network-wired"></i></span>Max Sub Domains 75</li>
-        <li><span class="me-2"><i class="fa-solid fa-gears"></i></span>cPanel Control Panel</li>
-        <li><span class="me-2"><i class="fa-solid fa-clock"></i></span>Office Hours - Support</li>
-    </ul>
-    <br>
-    <p>
-        For .tz Domains 30,000 TZS 
-        <br>
-        ($ 13.04) /Year
-    </p>
-    <p>
-        For International Domains (.com)
-        <br>
-        50,000 TZS ($ 21.74) /Year
-    </p>
-    <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
-</div>
+        
 
-            <!-- Email Hosting -->
+                    <h1 class="display-font text-center m-5">Email Packages</h1>
 
+
+
+           <!-- Email Hosting -->
+<div class="row">
+
+
+
+                    
+                    
+                    
+                    <div class="col-lg-6 col-md-6 mb-4">
+        <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow text-center">
+            <!-- <span class="popular-badge text-center d-inline-block position-absolute">Offer!</span> -->
+            <h3 class="h5">.tz</h3>
+            <h4 class="h2 mt-2 monthly-price">TZS 75,000<span>/Year</span></h4>
+            <ul class="feature-list mt-4">
+                <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Space: 500MB</li>
+                <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 100</li>
+
+            </ul>
+            <br>
+            <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
+        </div>
+    </div>
+
+    <div class="col-lg-6 col-md-6 mb-4">
+        <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow text-center">
+            <!-- <span class="popular-badge text-center d-inline-block position-absolute">Offer!</span> -->
+            <h3 class="h5">International Extensions <br> {.com, .org, .net etc}</h3>
+            <h4 class="h2 mt-2 monthly-price">TZS 90,000<span>/Year</span></h4>
+            <ul class="feature-list mt-4">
+                <li><span class="me-2"><i class="fa-solid fa-database"></i></span>Space: 500MB</li>
+                <li><span class="me-2"><i class="fa-solid fa-briefcase"></i></span>Max Email Accounts 100</li>
+
+            </ul>
+            <br>
+            <a href="#" class="template-btn secondary-btn rounded-pill btn-small w-100 text-center mt-40">Purchase Plan</a>
+        </div>
+    </div>
 </div>
+<!-- Email Hosting -->
 
 
         </div>
@@ -493,11 +514,22 @@ require_once("./modal.php");
             <div class="row align-items-center justify-content-between">
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
-                        <p class="fw-semibold lead position-relative">Marketing for the digital age</p>
+                        <p class="fw-semibold lead position-relative">Marketing For The Digital Age</p>
                         <h1 class="display-3 fw-bold text-white mb-3">Creative, Content, Customers</h1>
                         <p class="mb-5">We specialize in using the latest online technologies to help businesses reach their target audiences.
                         Our services include search engine optimization (SEO), pay-per-click advertising (PPC), social media marketing, and email marketing.</p>
-                        <a href="contact.php" class="template-btn primary-btn">Contact Us</a>
+                        <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
+
+
+                        <!-- Get Quote Button -->
+                          
+                        <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                              <b>Get Quote</b>
+                              
+                            </button>
+
+                            <!-- Get Quote Button -->
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-9">
@@ -522,9 +554,11 @@ require_once("./modal.php");
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                        <p class="mb-0"> We understand that every business is different, and that each has its own unique needs and goals.
-                            That's why we offer a variety of services and tailor our approach to each individual client.
-                        </p>
+                       
+
+                    <p class="mb-0">Do you know how many customers visit your website? Our analytics experts
+                            review and mine data from your website to provide you with suggestions for better
+                            customer engagement.</p>
                     </div>
                 </div>
             </div>
@@ -535,7 +569,7 @@ require_once("./modal.php");
                             <img src="assets/img/affiliate/seo.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">SEO</h4>
                             <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                                engines such as Google Search.</p>
                         </div>
                     </div>
 
@@ -544,8 +578,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/analytic.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Website Analytic</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Gain valuable insights to optimize your site's performance and user experience.</p>
                         </div>
                     </div>
 
@@ -554,8 +587,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/web enhancement.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Website Enhancement</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Elevate your online presence with improvements that captivate and engage your audience.</p>
                         </div>
                     </div>
 
@@ -564,8 +596,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/whatsapp.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Whatsapp via your Website</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Connect with customers seamlessly through WhatsApp directly from your website.</p>
                         </div>
                     </div>
 
@@ -574,8 +605,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/chat.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">LIVE Chat via your Website</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Engage with visitors in real-time through live chat directly on your website.</p>
                         </div>
                     </div>
 
@@ -584,8 +614,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/social.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Social Media Monitoring</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">We offer comprehensive social media management services, handling everything from content creation to ad campaigns.</p>
                         </div>
                     </div>
 
@@ -594,8 +623,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/google.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Google My Business</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Optimize your online presence and reach customers easily with Google My Business.</p>
                         </div>
                     </div>
 
@@ -604,8 +632,7 @@ require_once("./modal.php");
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/live.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Live Video Streaming</h4>
-                            <p class="mb-0">Search Engine Optimization! We help you rank High on top of search
-                                engines such as Google Search</p>
+                            <p class="mb-0">Engage your audience in real-time with captivating live video streaming.</p>
                         </div>
                     </div>
                 </div>

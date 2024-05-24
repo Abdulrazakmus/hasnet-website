@@ -16,21 +16,21 @@
                                 <h5 class="ft-subtitle text-white position-relative d-inline-block">Follow us on
                                 </h5>
                                 <ul class="social-nav mt-3">
-                                    <li><a href="#"
+                                    <li><a href="https://wa.me/255717323132"
+                                        class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
+                                            class="fab fa-whatsapp"></i></a></li>
+                                    <li><a href="https://www.facebook.com/hasnet.ict.solution/"
                                             class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
                                                 class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"
+                                    <li><a href="https://x.com/i/flow/login?redirect_after_login=%2FICT_HasNet"
                                             class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
                                                 class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"
+                                    <li><a href="https://www.instagram.com/ict.hasnet/?hl=en"
                                             class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
                                                 class="fab fa-instagram"></i></a></li>
-                                    <li><a href="#"
+                                    <li><a href="https://tz.linkedin.com/in/hasnet-ict-solution-b80246210"
                                             class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
                                                 class="fab fa-linkedin"></i></a></li>
-                                                <li><a href="#"
-                                                    class="rounded-circle overflow-hidden position-relative d-flex align-items-center justify-content-center text-white"><i
-                                                        class="fab fa-whatsapp"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -39,11 +39,12 @@
                         <div class="footer-widget footer-widget-2 mt-2">
                             <h5 class="text-white position-relative mb-5 widget-title">Support</h5>
                             <ul class="footer-nav">
-                                <li><a href="index.php">Company Profile</a></li>
-                                <li><a href="./assets/docs/Refund-Policy.pdf">Refund Policy</a></li>
-                                <li><a href="./assets/docs/Refund-Policy.pdf">Clients policy</a></li>
-                                <li><a href="./assets/docs/Copyright.pdf">Copyright</a></li>
-                                <li><a href="./assets/docs/FAQs.pdf">FAQs</a></li>
+                                <li><a href="./assets/docs/Services & Prodcuts Catalog.pdf" target="_blank">Product Catalogue</a></li>
+                                <li><a href="./assets/docs/HASNET COMPANY PROFILE WITH COMMON PRODUCTS.pdf" target="_blank">Company Profile</a></li>
+                                <li><a href="./assets/docs/Refund-Policy.pdf" target="_blank">Refund Policy</a></li>
+                                <li><a href="./assets/docs/Refund-Policy.pdf" target="_blank">Clients policy</a></li>
+                                <li><a href="./assets/docs/Copyright.pdf" target="_blank">Copyright</a></li>
+                                <li><a href="./assets/docs/FAQs.pdf" target="_blank">FAQs</a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,16 +69,18 @@
                                 <button type="submit" class="template-btn primary-btn btn-small">Subscribe</button>
                             </form>
                             <div class="ft-payment-method mt-40">
-                                <h5 class="text-white position-relative ft-subtitle d-inline-block">We Accepted</h5>
+                                <h5 class="text-white position-relative ft-subtitle d-inline-block">We Accept</h5>
                                 <ul class="payment-list d-flex align-items-center mt-3">
                                     <li class="d-inline-flex align-items-center justify-content-center"><img
                                             src="assets/img/visa.png" alt="visa" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/mastercard.png" alt="mastercard" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/payoneer.png" alt="payoneer" class="img-fluid"></li>
-                                    <li class="d-inline-flex align-items-center justify-content-center"><img
+                                            <!-- <li class="d-inline-flex align-items-center justify-content-center"><img
+                                            src="assets/img/mastercard.png" alt="mastercard" class="img-fluid"></li> -->
+                                            <!-- <li class="d-inline-flex align-items-center justify-content-center"><img
+                                            src="assets/img/payoneer.png" alt="payoneer" class="img-fluid"></li> -->
+                                            <li class="d-inline-flex align-items-center justify-content-center"><img
                                             src="assets/img/paypal.png" alt="paypal" class="img-fluid"></li>
+                                            <li class="d-inline-flex align-items-center justify-content-center"><img
+                                            src="assets/img/cash.png" alt="visa" class="img-fluid"></li>
                                 </ul>
                             </div>
                         </div>
@@ -96,8 +99,8 @@
                     
                     <div class="col-md-6">
                         <div class="copyright-links mt-2 mt-md-0 text-start text-md-end">
-                            <a href="./assets/docs/Terms&Conditions.pdf">Terms & Conditions</a>
-                            <a href="./assets/docs/Privacy-Policy.pdf" class="ml-20">Privacy Policy</a>
+                            <a href="./assets/docs/Terms&Conditions.pdf" target="_blank">Terms & Conditions</a>
+                            <a href="./assets/docs/Privacy-Policy.pdf" target="_blank" class="ml-20">Privacy Policy</a>
                         </div>
                     </div>
                 </div>

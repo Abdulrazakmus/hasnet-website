@@ -33,7 +33,7 @@
                         <div class="logo-wrapper">
                             <a href="index.php" class="logo-black"><img src="assets/img/logo.png" alt="logo"
                                     class="logo"></a>
-                            <a href="index.php" class="logo-white"><img src="assets/img/logo-white.png"
+                            <a href="index.php" class="logo-white"><img src="assets/img/logo-white-2.png"
                                     alt="logo" class="logo"></a>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
 
                             <!-- Get Quote Button -->
                           
-                            <button type="button" class="btn btn-primary btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <button type="button" class="btn btn-primary btn-md" data-bs-toggle="modal" data-bs-target="#exampleModal">
                               <b>Get Quote</b>
                               
                             </button>
