@@ -22,25 +22,7 @@ require_once("./links.php");
     <!--scrolltop button -->
     <button class="scrolltop-btn"><i class="fa-solid fa-angle-up"></i></button>
 
-    <!-- preloader start -->
-    <!-- <div class="loader-wrap">
-        <div class="preloader">
-            <div id="handle-preloader" class="handle-preloader">
-                <div class="animation-preloader">
-                    <div class="spinner"></div>
-                    <div class="txt-loading">
-                        <span data-text-preloader="H" class="letters-loading">H</span>
-                        <span data-text-preloader="A" class="letters-loading">A</span>
-                        <span data-text-preloader="S" class="letters-loading">S</span>
-                        <span data-text-preloader="N" class="letters-loading">N</span>
-                        <span data-text-preloader="E" class="letters-loading">E</span>
-                        <span data-text-preloader="T" class="letters-loading">T</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>  -->
-    <!-- preloader end -->
+   
 
    <!-- Header -->
    <?php
@@ -60,10 +42,10 @@ require_once("./modal.php");
             <div class="row align-items-center justify-content-between">
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
-                        <p class="fw-semibold lead position-relative">The Designs You Need</p>
-                        <h1 class="display-3 fw-bold text-white mb-3">We Design. <br>We Identify.</h1>
+                        <p class="fw-semibold lead position-relative">The Design you need</p>
+                        <h1 class="display-3 fw-bold text-white mb-3">We Brand. <br>We Identify.</h1>
                         <p class="mb-5"> We understand that good design is essential for effective communication, 
-                            and we want to use our skills to help you succeed !.</p>
+                            and we want to use our skills to help you succeed.</p>
  <!-- Get Quote Button -->
                           
  <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -119,7 +101,9 @@ require_once("./modal.php");
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/name-tag.jpg" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Name Tags</h4>
-                                <p class="mb-0">We're your go-to for top-notch name tags. From professional to personal needs, our designs and prints speak volumes. Elevate your identity with our quality craftsmanship.</p>
+                                <p class="mb-0">We specialize in crafting name tags for offices,
+                                     hotels, and organizations, offering a range of options, whether you 
+                                     prefer paper or chemical-based designs,with magnet or pin holders, we've got you covered.</p>
                             </div>
                         </div>
 
@@ -145,7 +129,7 @@ require_once("./modal.php");
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/fliers.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Fliers (Vipeperushi)</h4>
+                                <h4 class="mt-4 mb-20">Fliers (Vipeperushi) & Invitation Cards</h4>
                                 <p class="mb-0">We do design and printing of Fliers of different 
                                     paper quality for business,
                                      academic, office or personal uses.</p>
@@ -158,14 +142,14 @@ require_once("./modal.php");
                             <div class="aff-service-item text-center bg-white rounded">
                                 <img src="assets/img/affiliate/t-shirt.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">T-shirts</h4>
-                                <p class="mb-0">We design and printing of T-shirts of different quality and texture, it can be a logo, names or whatever picture you want 
+                                <p class="mb-0">We do design and printing of T-shirts of different quality and texture, it can be a logo, names or whatever picture you want 
                                     on T-shirts for personal uses, sports or even office.
                                 </p>
                             </div>
                         </div>
                             <div class="col-xl-4 col-md-6">
                                 <div class="aff-service-item text-center bg-white rounded">
-                                    <img src="assets/img/affiliate/envelopes.png" alt="icon" class="img-fluid">
+                                    <img src="assets/img/affiliate/envelope_5.jpg" width="250px;" alt="icon" class="img-fluid">
                                     <h4 class="mt-4 mb-20">Envelopes</h4>
                                     <p class="mb-0">We do design and printing of envelopes for office uses. It can be of any design you want,
                                          this envlopes brand your Company in the most respectable way .</p>
@@ -173,7 +157,7 @@ require_once("./modal.php");
                             </div>
                                 <div class="col-xl-4 col-md-6">
                                     <div class="aff-service-item text-center bg-white rounded">
-                                        <img src="assets/img/affiliate/stickers.png" alt="icon" class="img-fluid">
+                                        <img src="assets/img/affiliate/product-sticker.jpg" width="330px;" alt="icon" class="img-fluid">
                                         <h4 class="mt-4 mb-20">Stickers</h4>
                                         <p class="mb-0">We do design and printing of paper stickers and PVC stickers of any size
                                              of your demand whether it is transparent or opaque.</p>
@@ -231,7 +215,7 @@ require_once("./modal.php");
                             <div class="col-xl-4 col-md-6">
                                 <div class="aff-service-item text-center bg-white rounded">
                                     <img src="assets/img/affiliate/cottonbags.png" alt="icon" class="img-fluid">
-                                    <h4 class="mt-4 mb-20">Cotton bags</h4>
+                                    <h4 class="mt-4 mb-20">Cotton Bags</h4>
                                     <p class="mb-0">We do design and printing of Cotton bags of different sizes and quality for business advertisement,
                                          gifts, birthday parties or personal uses</p>
                                 </div>
@@ -251,7 +235,7 @@ require_once("./modal.php");
                                         <div class="aff-service-item text-center bg-white rounded">
                                             <img src="assets/img/affiliate/ID cards.png" alt="icon" class="img-fluid">
                                             <h4 class="mt-4 mb-20">ID cards</h4>
-                                            <p class="mb-0">We do design and printing of ID cards of best quality wich comes with puches and thread or clamp for organization or office uses. 
+                                            <p class="mb-0">We do design and printing of ID cards of best quality wich comes with covers and threads and thread or clamp for organization or office uses. 
                                                 Thread which the ID hangs on can also be printed.</p>
                                         </div>
                                         </div>
@@ -267,7 +251,7 @@ require_once("./modal.php");
 
                                             <div class="col-xl-4 col-md-6">
                                                 <div class="aff-service-item text-center bg-white rounded">
-                                                    <img src="assets/img/affiliate/rockframes.png" alt="icon" class="img-fluid">
+                                                    <img src="assets/img/affiliate/rock-frame.jpg" width="250px;" alt="icon" class="img-fluid">
                                                     <h4 class="mt-4 mb-20">Rock Frames</h4>
                                                     <p class="mb-0">Heart, Door & Rectangle shapes are available for small, medium & large size
                                                          the material is real rock well modified for easy printing.</p>
@@ -287,8 +271,7 @@ require_once("./modal.php");
                                                         <div class="aff-service-item text-center bg-white rounded">
                                                             <img src="assets/img/affiliate/trophy.png" alt="icon" class="img-fluid">
                                                             <h4 class="mt-4 mb-20">Trophy</h4>
-                                                            <p class="mb-0">Print awards on galss trophy of different shapes, 
-                                                                both normal one and exutive are available.</p>
+                                                            <p class="mb-0">Print awards on glass trophies or wooden plaques of different shapes, both normal one and executive are available. Picha iongezeke na wooden plaques.</p>
                                                         </div>
                                                         </div>
 
@@ -308,7 +291,7 @@ require_once("./modal.php");
                     <div class="hm-affiliate-hero-left">
                         <p class="fw-semibold lead position-relative">Your Vision, Super-Sized</p>
                         <h1 class="display-3 fw-bold text-white mb-3">Large Format Printing</h1>
-                        <p class="mb-5"> We know good design is key to clear communication. Let us use our skills to help you succeed!.</p>
+                        <p class="mb-5"> Your one-stop branding solution <br> From office and outdoor branding to event banners and car branding, we've got everything you need to make your mark.</p>
  <!-- Get Quote Button -->
                           
  <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -338,60 +321,67 @@ require_once("./modal.php");
         <div class="aff-feature-bottom pt-120">
             <div class="#">
                 <div class="row justify-content-center g-4">
-                    <div class="col-xl-3 col-lg-6 col-md-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/standing banner.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Standing Banner</h4>
                             <p class="mb-0">We design and print different sizes of Standing banners, Event banners, and Blacklight for special events like conventions, for office use, or for business advertisement.</p>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="aff-service-item text-center bg-white rounded">
-                            <img src="assets/img/affiliate/vinyl-stickers.jpg" alt="icon" class="img-fluid">
+                            <img src="assets/img/affiliate/vinyl-stickers.jpg" width="250px;" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Vinyl Sticker</h4>
                             <p class="mb-0">Vinyl stickers are printed from a durable white vinyl material that's also known as PVC. They are strong, available in hundreds of different colors, and can last between 5 and 10 years depending on where they're applied.</p>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="aff-service-item text-center bg-white rounded">
-                            <img src="assets/img/affiliate/tear drop.png" alt="icon" class="img-fluid">
+                            <img src="assets/img/affiliate/tear drop.png" width="200px;" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Tear Drop Banner</h4>
                             <p class="mb-0">Our jaw-dropping Teardrop Banners are guaranteed to grab your attention indoors or outside! They are super easy to assemble and look perfect every time.</p>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="aff-service-item text-center bg-white rounded">
-                            <img src="assets/img/affiliate/frosted sticker.jpg" alt="icon" class="img-fluid">
-                            <h4 class="mt-4 mb-20">Frosted Sticker</h4>
-                            <p class="mb-0">Elevate your brand's visibility with our stunning frosted sticker designs. Our custom creations add elegance to any surface, making your message stand out with a touch of sophistication. Let us transform your vision into captivating reality.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="aff-service-item text-center bg-white rounded">
-                            <img src="assets/img/affiliate/contovision.webp" alt="icon" class="img-fluid">
-                            <h4 class="mt-4 mb-20">Contravision Sticker</h4>
-                            <p class="mb-0">Contravision is a printable self-adhesive window vinyl that allows for a clearly visible message to be seen on the outside, with the visibility from the inside remaining relatively unchanged.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="aff-service-item text-center bg-white rounded">
-                            <img src="assets/img/affiliate/stickers.png" alt="icon" class="img-fluid">
-                            <h4 class="mt-4 mb-20">Normal Stickers</h4>
-                            <p class="mb-0">Transform ordinary surfaces into captivating expressions of your brand or personality with our premium stickers. Crafted with durable materials and vibrant colors, our stickers are perfect for adding flair to products, packaging, or personal items.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/block out banner.jpg" alt="icon" class="img-fluid">
-                            <h4 class="mt-4 mb-20">Block Out Banner</h4>
+                            <h4 class="mt-4 mb-20">Blockout Banner</h4>
                             <p class="mb-0">Blockout vinyl banners are heavier than traditional banners and provide vibrant matte graphics that stand the test of time. The completely back backing ensures you can't see through the vinyl, and it works well on banners.</p>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-6 col-md-6">
+                    <div class="col-xl-4 col-lg-6 col-md-6">
                         <div class="aff-service-item text-center bg-white rounded">
                             <img src="assets/img/affiliate/backlit banner.png" alt="icon" class="img-fluid">
                             <h4 class="mt-4 mb-20">Backlit Banner</h4>
                             <p class="mb-0">The extreme backlight and backlighting fabrics allow light to pass through, creating crisp and bright colors when lit from behind.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/frosted sticker.jpg" width="250px;" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Frosted Sticker</h4>
+                            <p class="mb-0">Elevate your brand's visibility with our stunning frosted sticker designs. Our custom creations add elegance to any surface, making your message stand out with a touch of sophistication. Let us transform your vision into captivating reality.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/contovision.webp" width="250px;" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Contravision Sticker</h4>
+                            <p class="mb-0">Contravision is a printable self-adhesive window vinyl that allows for a clearly visible message to be seen on the outside, with the visibility from the inside remaining relatively unchanged.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/normal-sticker.jpg" width="300px;" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">Normal Stickers</h4>
+                            <p class="mb-0">Transform ordinary surfaces into captivating expressions of your brand or personality with our premium stickers. Crafted with durable materials and vibrant colors, our stickers are perfect for adding flair to products, packaging, or personal items.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6">
+                        <div class="aff-service-item text-center bg-white rounded">
+                            <img src="assets/img/affiliate/3D banner.jpg" width="300px;" alt="icon" class="img-fluid">
+                            <h4 class="mt-4 mb-20">3D Banner</h4>
+                            <p class="mb-0">3D banners are innovative advertising solutions that add depth and dimension to your visuals, making them stand out.</p>
                         </div>
                     </div>
                 </div>
