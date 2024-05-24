@@ -217,7 +217,7 @@ require_once("./modal.php");
                                     <img src="assets/img/affiliate/cottonbags.png" alt="icon" class="img-fluid">
                                     <h4 class="mt-4 mb-20">Cotton Bags</h4>
                                     <p class="mb-0">We do design and printing of Cotton bags of different sizes and quality for business advertisement,
-                                         gifts, birthday parties or personal uses</p>
+                                         gifts, birthday parties or personal uses.</p>
                                 </div>
                                 
                                 </div>
