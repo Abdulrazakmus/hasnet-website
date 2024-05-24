@@ -46,15 +46,15 @@ require_once("./modal.php");
                         <p class="mb-5">Providing the simplest solution for the most complex problem, we try our best
                             and we make sure we deliver the best</p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Get Quote</a> -->
-
-<!-- Get Quote Button -->
+ <!-- Get Quote Button -->
                           
-<button type="button" class="btn primary-btn lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
+ <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
                               <b>Get Quote</b>
                               
                             </button>
 
                             <!-- Get Quote Button -->
+
 
                     </div>
 
