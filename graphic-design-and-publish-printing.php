@@ -43,7 +43,7 @@ require_once("./modal.php");
                 <div class="col-xxl-5 col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-left">
                         <p class="fw-semibold lead position-relative">The Design you need</p>
-                        <h1 class="display-3 fw-bold text-white mb-3">We Brand. <br>We Identify.</h1>
+                        <h1 class="display-3 fw-bold text-white mb-3">We Brand. <br> We Identify.</h1>
                         <p class="mb-5"> We understand that good design is essential for effective communication, 
                             and we want to use our skills to help you succeed.</p>
  <!-- Get Quote Button -->
