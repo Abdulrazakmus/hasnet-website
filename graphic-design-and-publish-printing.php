@@ -238,14 +238,14 @@ require_once("./modal.php");
                                 
                                 </div>
 
-                                <div class="col-xl-4 col-md-6">
+                                <!-- <div class="col-xl-4 col-md-6">
                                     <div class="aff-service-item text-center bg-white rounded">
                                         <img src="assets/img/affiliate/cd covers.png" alt="icon" class="img-fluid">
                                         <h4 class="mt-4 mb-20">CD & Covers</h4>
                                         <p class="mb-0">We do design and printing of CDs and their hard covers of different quality basae on your demands, it can be for office,
                                              organization or business advertisements.</p>
                                     </div>
-                                    </div>
+                                    </div> -->
 
                                     <div class="col-xl-4 col-md-6">
                                         <div class="aff-service-item text-center bg-white rounded">
