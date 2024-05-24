@@ -71,14 +71,20 @@
                             <div class="ft-payment-method mt-40">
                                 <h5 class="text-white position-relative ft-subtitle d-inline-block">We Accept</h5>
                                 <ul class="payment-list d-flex align-items-center mt-3">
+
                                     <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/visa.png" alt="visa" class="img-fluid"></li>
+                                            src="assets/img/affiliate/tigopesa.png" width="70px;" alt="visa" class="img-fluid"></li>
+
                                             <!-- <li class="d-inline-flex align-items-center justify-content-center"><img
                                             src="assets/img/mastercard.png" alt="mastercard" class="img-fluid"></li> -->
                                             <!-- <li class="d-inline-flex align-items-center justify-content-center"><img
                                             src="assets/img/payoneer.png" alt="payoneer" class="img-fluid"></li> -->
+
+
                                             <li class="d-inline-flex align-items-center justify-content-center"><img
-                                            src="assets/img/paypal.png" alt="paypal" class="img-fluid"></li>
+                                            src="assets/img/affiliate/pbz.png" width="60px;" alt="paypal" class="img-fluid"></li>
+
+
                                             <li class="d-inline-flex align-items-center justify-content-center"><img
                                             src="assets/img/cash.png" alt="visa" class="img-fluid"></li>
                                 </ul>
