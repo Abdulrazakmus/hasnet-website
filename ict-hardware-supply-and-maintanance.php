@@ -100,7 +100,7 @@ require_once("./modal.php");
         <div class="hm2-blog-card-content position-relative">
             <a href="#" class="tag-btn rounded-pill position-absolute">Computer Accessories</a>
             <a href="#">
-                <h3 class="h5 mb-3">We provide ICT training to Organization for short term basis</h3>
+                <h3 class="h5 mb-3">Computer Accessories</h3>
             </a>
             <p>
                 This includes the use of new Technology Software or Devices
@@ -137,7 +137,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-6 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/pos.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">POS</h4>
                                 <p class="mb-0">We do installation and configuration of Biometric device for the aim of
                                     monitoring Employees' attendance and securing the accessibility of doors by using
@@ -147,7 +147,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-6 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/consultancy.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">IT Consultancy</h4>
                                 <p class="mb-0">We do installation and configuration of Biometric device for the aim of
                                     monitoring Employees' attendance and securing the accessibility of doors by using
@@ -157,7 +157,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-6 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/defaiult.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Training</h4>
                                 <p class="mb-0">We do installation and configuration of Biometric device for the aim of
                                     monitoring Employees' attendance and securing the accessibility of doors by using
@@ -167,7 +167,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-6 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/backup.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Data Storage & Cloud Backup</h4>
                                 <p class="mb-0">We do installation and configuration of Biometric device for the aim of
                                     monitoring Employees' attendance and securing the accessibility of doors by using
@@ -178,7 +178,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-6 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/access control.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/power-backup.png" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Power Backup</h4>
                                 <p class="mb-0">We do installation and configuration of Biometric device for the aim of
                                     monitoring Employees' attendance and securing the accessibility of doors by using
