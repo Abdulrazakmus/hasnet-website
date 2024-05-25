@@ -271,7 +271,8 @@ require_once("./modal.php");
                                                         <div class="aff-service-item text-center bg-white rounded">
                                                             <img src="assets/img/affiliate/trophy.png" alt="icon" class="img-fluid">
                                                             <h4 class="mt-4 mb-20">Trophy</h4>
-                                                            <p class="mb-0">Print awards on glass trophies or wooden plaques of different shapes, both normal one and executive are available. Picha iongezeke na wooden plaques.</p>
+                                                            <p class="mb-0">Print awards on glass trophies or wooden plaques of different shapes,
+                                                                 both normal one and executive are available.</p>
                                                         </div>
                                                         </div>
 
