@@ -238,7 +238,7 @@ require_once("./modal.php");
                             <img src="assets/img/shapes/sidebar-bg.png" alt="net" class="position-absolute left-top soft-light w-100 opacity-50">
                             <h6 class="text-white">Have Any Project</h6>
                             <h3 class="text-white mt-3">Or Work Together?</h3>
-                            <a href="contact.php" class="template-btn primary-btn rounded-pill mt-20">Contact Now</a>
+                            <a href="contact.php" class="template-btn secondary-btn rounded-pill mt-20">Contact Now</a>
                             <div class="banner-contact-info mt-30">
                                 <span class="icon-wrapper rounded-circle text-white d-inline-flex align-items-center justify-content-center"><i class="fa-solid fa-phone"></i></span>
                                 <h4><a href="tel:+255777091901" class="text-white mt-20 d-block">Call: +255 777 091 901</a></h4>
