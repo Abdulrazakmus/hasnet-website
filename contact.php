@@ -196,14 +196,5 @@
     <!-- Footer -->
     <?php require_once("./footer.php"); ?>
 
-    <!-- JavaScript for debugging -->
-    <script>
-        document.getElementById('contactForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-            console.log('Form submitted');
-            // Add more debugging as needed
-            this.submit(); // Remove this line if you are using AJAX to handle form submission
-        });
-    </script>
 </body>
 </html>
