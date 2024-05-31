@@ -57,7 +57,7 @@
                           </span>
                             <div class="info-content mt-4">
                                 <h4>Hotline</h4>
-                                <span>+255 777 01 99 01</span>
+                                <span>+255 717 323 132</span>
                             </div>
                         </div>
                     </div>
