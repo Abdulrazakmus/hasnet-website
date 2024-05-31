@@ -241,7 +241,7 @@ require_once("./modal.php");
                             <a href="contact.php" class="template-btn primary-btn rounded-pill mt-20">Contact Now</a>
                             <div class="banner-contact-info mt-30">
                                 <span class="icon-wrapper rounded-circle text-white d-inline-flex align-items-center justify-content-center"><i class="fa-solid fa-phone"></i></span>
-                                <h4><a href="tel:01234565299" class="text-white mt-20 d-block">Call: +255 777 091 901</a></h4>
+                                <h4><a href="tel:+255777091901" class="text-white mt-20 d-block">Call: +255 777 091 901</a></h4>
                             </div>
                         </div>
                     </div>

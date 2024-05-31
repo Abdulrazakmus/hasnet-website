@@ -3,7 +3,12 @@ require_once("./links.php");
 ?>
 
 <!--title-->
-<title>Home : Hasnet ICT solutions</title>
+<title>Home : Hasnet ICT Solution</title>
+
+<meta name="description" content="From Website Design, Domains to Hosting. CCTV Cameras and Networking. Graphic Design and Printing ensure your brand stands out. We've got you covered, experience excellence in every aspect of your ICT journey and beyond with us!">
+
+<meta name="keywords" content="">
+
 </head>
 
 <body>
@@ -229,12 +234,9 @@ require_once("./links.php");
                 <h3>Why Choosing Us?</h3>
                 <p> Check out the 3 reasons ...</p>
                 <ul class="money-back_ft-list d-flex align-items-center justify-content-start justify-content-md-center mt-30">
-                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">We know what we
-                            do</span></li>
-                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">Affordable cost
-                            at higher standard</span></li>
-                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">Confidentiality
-                            and uniqness</span></li>
+                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">ICT Expertise and After Service Support</span></li>
+                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">Affordable Cost at Higher Standard</span></li>
+                    <li><i class="fa-solid fa-check-square"></i><span class="ms-2">Innovation-Driven Approach</span></li>
                 </ul>
             </div>
         </div>
@@ -322,10 +324,7 @@ require_once("./links.php");
                                 </div>
                                 <div class="accordion-collapse collapse show" id="sh_14" data-bs-parent="#accordion_4">
                                     <div class="accordion-body">
-                                        <p class="mb-0">Our Company structure is made up of CEO, followed by CFO, COO and Secretary <br>
-                                            And there are four main operational departments, Programmers (Web Designers & System Developers),
-                                            Technicians (IT, Electronics & Electrical), Graphic Designers, and Innovation Hub.
-                                            All this departments are under the supervision of COO.</p>
+                                        <p class="mb-0">We specialize in comprehensive ICT solutions, including website design, database system development, domain registration & hosting, digital marketing, graphic design and printing, CCTV supply & installation, networking, ICT consultancy & training. With a focus on innovation, we turn ideas into reality.</p>
                                     </div>
                                 </div>
                             </div>
@@ -424,7 +423,7 @@ require_once("./links.php");
                                 </div>
                                 <div class="accordion-collapse collapse" id="sh_10" data-bs-parent="#accordion_2">
                                     <div class="accordion-body">
-                                        <p class="mb-0">To provide a cheaper and reliable services in all classes
+                                        <p class="mb-0">To provide a affordable and reliable services in all classes
                                             regarding lower or upper class.</p>
                                     </div>
                                 </div>
@@ -450,7 +449,7 @@ require_once("./links.php");
                                 <div class="accordion-collapse collapse" id="sh_12" data-bs-parent="#accordion_2">
                                     <div class="accordion-body">
                                         <p class="mb-0">Ensuring super quality services that will maintain our relation
-                                            with our honored customers is provided.</p>
+                                            with our honored customers.</p>
                                     </div>
                                 </div>
                             </div>
@@ -496,7 +495,7 @@ require_once("./links.php");
                                 </div>
                                 <div class="accordion-collapse collapse show" id="sh_12" data-bs-parent="#accordion_3">
                                     <div class="accordion-body">
-                                        <p class="mb-0"> <b>Our Vision</b>"is to become the leading ICT Company in
+                                        <p class="mb-0"> <b>Our Vision </b>"is to become the leading ICT Company in
                                             Zanzibar and
                                             then opening more branches in Tanzania Mainland, which provides the better,
                                             affordable and efficient ICT services, which satisfy the clients’ needs".
@@ -521,13 +520,8 @@ require_once("./links.php");
                                 </div>
                                 <div class="accordion-collapse collapse show" id="sh_14" data-bs-parent="#accordion_4">
                                     <div class="accordion-body">
-                                        <p class="mb-0">We are specialized in ICT solution that relate to Website
-                                            design,
-                                            Database system development, Domain registration & Hosting, Digital
-                                            marketing,
-                                            Graphic design and Printing, CCTV Supply & Installation,
-                                            Hardware maintenance, Networking, ICT Consultancy & Training.
-                                            We also develop innovative ideas and make them happen.</p>
+                                        <p class="mb-0">Our Company structure is made up of General Manager (GM) along with Assistant (GM), followed by Operation Manager (OM) and Finance Manager (FM). <br>
+                                            And there are three main operational departments; Engineering, Software and Printing Department. Our Team is made up of Engineers, Technicians (IT and Electrical), Programmers and Graphic Designers.</p>
                                     </div>
                                 </div>
                             </div>

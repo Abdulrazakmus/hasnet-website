@@ -5,6 +5,8 @@ require_once("./links.php");
 
 <!--title-->
 <title>Graphic Design and Publish Printing</title>
+
+<meta name="description" content="Elevate your brand with top-notch graphic design and printing services. Explore our page for expert solutions tailored to your needs.">
 </head>
 
 <body>
@@ -90,16 +92,16 @@ require_once("./modal.php");
                     <div class="row justify-content-center g-4">
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/logo design.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/logo design.png" alt="Logo and Later Head Design" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Logo & Later Heads</h4>
-                                <p class="mb-0">We do design of Logos for office, business or organization demands. 
-                                    Logo let you express your business in a unique way.</p>
+                                <p class="mb-0">We do design of Logos and Later Heads for office, business or organization demands.
+                                    Logo let you express your business and brand in a unique way.</p>
                             </div>
                         </div>
 
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/name-tag.jpg" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/name-tag.jpg" alt="Name Tags Printing" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Name Tags</h4>
                                 <p class="mb-0">We specialize in crafting name tags for offices,
                                      hotels, and organizations, offering a range of options, whether you 
@@ -109,7 +111,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/notebook&diaries.jpg" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/notebook&diaries.jpg" alt="Notebook and Diaries Printing" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Diaries & Note Books</h4>
                                 <p class="mb-0">We excel in printing custom notebooks and diaries, tailored to your preferences. Whether for personal journaling or professional note-taking, our prints are crafted with precision and care.</p>
                             </div>
@@ -119,7 +121,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/business.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/business.png" alt="Business Cards Printing" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Business Cards</h4>
                                 <p class="mb-0">We do design and printing of Business cards of different quality 
                                     depending on your demands for Office or personal uses.</p>
@@ -128,7 +130,7 @@ require_once("./modal.php");
 
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/fliers.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/fliers.png" alt="Flier and Invitation Cards Desig and Printing" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Fliers (Vipeperushi) & Invitation Cards</h4>
                                 <p class="mb-0">We do design and printing of Fliers of different 
                                     paper quality for business,
@@ -140,7 +142,7 @@ require_once("./modal.php");
                         
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/t-shirt.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/t-shirt.png" alt="T-shirts Printing and Embroidery" class="img-fluid">
                                 <h4 class="mt-4 mb-20">T-shirts</h4>
                                 <p class="mb-0">We do design and printing of T-shirts of different quality and texture, it can be a logo, names or whatever picture you want 
                                     on T-shirts for personal uses, sports or even office.
@@ -149,7 +151,7 @@ require_once("./modal.php");
                         </div>
                             <div class="col-xl-4 col-md-6">
                                 <div class="aff-service-item text-center bg-white rounded">
-                                    <img src="assets/img/affiliate/envelope_5.jpg" width="250px;" alt="icon" class="img-fluid">
+                                    <img src="assets/img/affiliate/envelope_5.jpg" width="250px;" alt="Envelop Printing" class="img-fluid">
                                     <h4 class="mt-4 mb-20">Envelopes</h4>
                                     <p class="mb-0">We do design and printing of envelopes for office uses. It can be of any design you want,
                                          this envlopes brand your Company in the most respectable way.</p>
@@ -157,7 +159,7 @@ require_once("./modal.php");
                             </div>
                                 <div class="col-xl-4 col-md-6">
                                     <div class="aff-service-item text-center bg-white rounded">
-                                        <img src="assets/img/affiliate/product-sticker.jpg" width="330px;" alt="icon" class="img-fluid">
+                                        <img src="assets/img/affiliate/product-sticker.jpg" width="330px;" alt="Sticker Printing" class="img-fluid">
                                         <h4 class="mt-4 mb-20">Stickers</h4>
                                         <p class="mb-0">We do design and printing of paper stickers and PVC stickers of any size
                                              of your demand whether it is transparent or opaque.</p>
@@ -165,15 +167,15 @@ require_once("./modal.php");
                                 </div>
                                     <div class="col-xl-4 col-md-6">
                                         <div class="aff-service-item text-center bg-white rounded">
-                                            <img src="assets/img/affiliate/businessRecordBook.png" alt="icon" class="img-fluid">
+                                            <img src="assets/img/affiliate/businessRecordBook.png" alt="Books Printing" class="img-fluid">
                                             <h4 class="mt-4 mb-20">Business Record's Book</h4>
-                                            <p class="mb-0">We do design and printing of receipts, invoices, vouchers slip books or any other 
+                                            <p class="mb-0">We do design and printing of receipts, invoices, vouchers or delivery slip books or any other 
                                                 similar books for business or office uses.</p>
                                         </div>
                                     </div>
                                         <div class="col-xl-4 col-md-6">
                                             <div class="aff-service-item text-center bg-white rounded">
-                                                <img src="assets/img/affiliate/cap.png" alt="icon" class="img-fluid">
+                                                <img src="assets/img/affiliate/cap.png" alt="Caps Printing and Embroidery" class="img-fluid">
                                                 <h4 class="mt-4 mb-20">Caps (Kofia)</h4>
                                                 <p class="mb-0">We do design and printing of caps of different quality base on your demands, it can be for office, sports, 
                                                     organization or personal uses.</p>
@@ -181,7 +183,7 @@ require_once("./modal.php");
                                         </div>
                                             <div class="col-xl-4 col-md-6">
                                                 <div class="aff-service-item text-center bg-white rounded">
-                                                    <img src="assets/img/affiliate/mugs.png" alt="icon" class="img-fluid">
+                                                    <img src="assets/img/affiliate/mugs.png" alt="Mug Printing" class="img-fluid">
                                                     <h4 class="mt-4 mb-20">Mugs (Vikombe)</h4>
                                                     <p class="mb-0">We do design and printing of mugs for business advertisment, gifts,
                                                          birthday parties or personal uses, it can be normal mug, patch mug or magic mug.
@@ -190,7 +192,7 @@ require_once("./modal.php");
                                             </div>
                                                 <div class="col-xl-4 col-md-6">
                                                     <div class="aff-service-item text-center bg-white rounded">
-                                                        <img src="assets/img/affiliate/plates.png" alt="icon" class="img-fluid">
+                                                        <img src="assets/img/affiliate/plates.png" alt="Plates Printing" class="img-fluid">
                                                         <h4 class="mt-4 mb-20">Plates (Sahani)</h4>
                                                         <p class="mb-0">We do design and printing of Plates of different sizes for business advertisement, 
                                                             gifts, birthday parties or personal uses.</p>
@@ -198,7 +200,7 @@ require_once("./modal.php");
                                                 </div>
                                                     <div class="col-xl-4 col-md-6">
                                                         <div class="aff-service-item text-center bg-white rounded">
-                                                            <img src="assets/img/affiliate/pens.png" alt="icon" class="img-fluid">
+                                                            <img src="assets/img/affiliate/pens.png" alt="Pen Printing" class="img-fluid">
                                                             <h4 class="mt-4 mb-20">Pens</h4>
                                                             <p class="mb-0">We do design and printing of Pens of different quality basae on your demands, it can be for office, organization, 
                                                                 personal uses or business advertisements.</p>
@@ -206,7 +208,7 @@ require_once("./modal.php");
                                                     </div>
                                                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/keyholders.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/keyholders.png" alt="Key Holder Printing" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Keyholders</h4>
                                 <p class="mb-0">We do design and printing of Keyholders of different quality for business advertisment, 
                                     organization or office uses.</p>
@@ -214,7 +216,7 @@ require_once("./modal.php");
                                                         </div>
                             <div class="col-xl-4 col-md-6">
                                 <div class="aff-service-item text-center bg-white rounded">
-                                    <img src="assets/img/affiliate/cottonbags.png" alt="icon" class="img-fluid">
+                                    <img src="assets/img/affiliate/cottonbags.png" alt="Cotton Bags Printing" class="img-fluid">
                                     <h4 class="mt-4 mb-20">Cotton Bags</h4>
                                     <p class="mb-0">We do design and printing of Cotton bags of different sizes and quality for business advertisement,
                                          gifts, birthday parties or personal uses.</p>
@@ -260,7 +262,7 @@ require_once("./modal.php");
 
                                                 <div class="col-xl-4 col-md-6">
                                                     <div class="aff-service-item text-center bg-white rounded">
-                                                        <img src="assets/img/affiliate/woodframes.png" alt="icon" class="img-fluid">
+                                                        <img src="assets/img/affiliate/woodframe.jpg" alt="Printed Wood Frame" class="img-fluid">
                                                         <h4 class="mt-4 mb-20">Wood Frames</h4>
                                                         <p class="mb-0">Print your special occassion photos or family
                                                              photos on a wooden frame. A4 and A3 sizes are available.</p>

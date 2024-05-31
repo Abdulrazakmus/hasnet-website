@@ -23,7 +23,7 @@ require_once("./links.php");
     <button class="scrolltop-btn"><i class="fa-solid fa-angle-up"></i></button>
 
     <!-- preloader start -->
-    <!-- <div class="loader-wrap">
+    <!--<div class="loader-wrap">
         <div class="preloader">
             <div id="handle-preloader" class="handle-preloader">
                 <div class="animation-preloader">
@@ -39,7 +39,7 @@ require_once("./links.php");
                 </div>
             </div>
         </div>
-    </div>  -->
+    </div>
     <!-- preloader end -->
 
    <!-- Header -->
@@ -85,7 +85,7 @@ require_once("./modal.php");
                               </span>
                                 <div class="info-content mt-4">
                                     <h4>Hotline</h4>
-                                    <span>+255 777 019 901</span>
+                                    <span>+255 777 01 99 01</span>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@ require_once("./modal.php");
                               </span>
                                 <div class="info-content mt-4">
                                     <h4>Email Us</h4>
-                                    <span>info@hasnet.co.tz</span>
+                                    <span><a href="mailto:info@hasnet.co.tz">info@hasnet.co.tz</a></span>
                                 </div>
                             </div>
                         </div>
@@ -107,7 +107,7 @@ require_once("./modal.php");
                               </span>
                                 <div class="info-content mt-4">
                                     <h4>Address</h4>
-                                    <span>Fuoni road, taveta street - zanzibar</span>
+                                    <span>Taveta Street, Fuoni Road, Zanzibar - Tanzania</span>
                                 </div>
                             </div>
                         </div>
@@ -116,16 +116,17 @@ require_once("./modal.php");
             </div>
         </section>
         <!--breadcrumb area end-->
-
+        
+        
         <!--contact form -->
         <section class="hm-contact-area position-relative pt-60 pb-120 overflow-hidden bg-white zindex-1">
-            <img src="assets/img/contact-bg-left.png" alt="bg" class="position-absolute left-bottom">
-            <img src="assets/img/contact-bg-right.png" alt="bg" class="position-absolute right-bottom">
+            <img src="assets/img/contact-bg-left.png" alt="contact" class="position-absolute left-bottom">
+            <img src="assets/img/contact-bg-right.png" alt="contact" class="position-absolute right-bottom">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-5">
                         <div class="ct-section-title text-center">
-                            <h2>We're Ready To Help You Send Us Message.</h2>
+                            <h2>Send Us Message!</h2>
                         </div>
                     </div>
                 </div>
@@ -175,7 +176,9 @@ require_once("./modal.php");
                         </div>
                     </form>
                 </div>
+                
             </div>
+            
         </section>
 
         <!--contact form end -->

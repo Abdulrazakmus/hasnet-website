@@ -4,7 +4,12 @@ require_once("./links.php");
 ?>
 
 <!--title-->
-<title>Networking and Digital Security</title>
+<title>Networking and Digital Security | Hasnet</title>
+
+<meta name="description" content="Secure your space with cutting-edge Networking and Digital security solution. From CCTV Cameras and Electric fences to Intruder Alarms and Door Access Control, we offer peace of mind. Explore our range now!">
+
+<meta name="keywords" content=""?>
+
 </head>
 
 <body>
@@ -50,7 +55,7 @@ require_once("./modal.php");
                         <h1 class="display-3 fw-bold text-white mb-3">Live Safe. <br>Stay Secured.</h1>
                         <p class="mb-5">We do installation and configuration of CCTV cameras for
                             the purpose of upgrading security and 24/7 monitoring at you Office,
-                            Business or Home...</p>
+                            Business or Home.</p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
 
  <!-- Get Quote Button -->
@@ -67,7 +72,7 @@ require_once("./modal.php");
                 </div>
                 <div class="col-lg-6 col-md-9">
                     <div class="hm-affiliate-hero-right">
-                        <img src="assets/img/affiliate/cctv camera & digital security.png" alt="hero shape"
+                        <img src="assets/img/affiliate/cctv camera & digital security.png" alt="CCTV Cameras and Digital Security"
                             class="img-fluid">
                     </div>
                 </div>
@@ -90,7 +95,7 @@ require_once("./modal.php");
                     <div class="col-xl-6 col-lg-6">
                         <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
                             <p class="mb-0">Whenever you are, watch LIVE your CCTV in your Smart-phone!
-                                HIKVISION & UNV are our commond Brands</p>
+                                HIKVISION, UNV and Dahua are our commond Brands</p>
                         </div>
                     </div>
                 </div>
@@ -98,28 +103,23 @@ require_once("./modal.php");
                     <div class="row justify-content-center g-4">
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/dome.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">IP Cameras</h4>
-                                <p class="mb-0">An Internet protocol camera, or IP camera, is a type of digital video camera commonly employed for surveillance, 
-                                    and which, unlike AHD closed circuit television (CCTV) cameras, can send and receive data via a computer network and the Internet.</p>
+                                <img src="assets/img/affiliate/ip-cameras.jpg" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">IP CCTV Cameras</h4>
+                                <p class="mb-0">Explore the convenience of IP CCTV Cameras. Seamlessly integrate them into your network for effortless remote viewing on mobile devices. Enhance your security with our versatile camera solutions.</p>
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/bullet.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Analog Cameras</h4>
-                                <p class="mb-0">Bullet CCTV cameras are a type of video surveillance camera
-                                    that are typically shaped like a rifle bullet shell. Bullet cameras are designed
-                                    to cover long range outdoor environment
-                                    . They can be AHD or IP, fixed or mobile</p>
+                                <img src="assets/img/affiliate/analog-cameras.jpg" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Analog CCTV Cameras</h4>
+                                <p class="mb-0">Trust in Analog CCTV Cameras for reliable, affordable surveillance solutions. Experience clarity and peace of mind with our simple, cost-effective CCTV systems.</p>
                             </div>
                         </div>
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/colourvu.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Stand Alone Cameras</h4>
-                                <p class="mb-0">"Coupled with a supplemental light for extremely dark scenarios,
-                                    ColorVu cameras guarantee video with colorful details when you need them."</p>
+                                <img src="assets/img/affiliate/stand-alone cameras.jpg" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Stand-alone CCTV Cameras</h4>
+                                <p class="mb-0">Explore our range of standalone cameras, from mini 4G to bulb cameras, all equipped with memory card functionality. Enjoy easy setup procedures for hassle-free monitoring.</p>
                             </div>
                         </div>
                         </div>
@@ -138,7 +138,7 @@ require_once("./modal.php");
                     <div class="hm-affiliate-hero-left">
                         <p class="fw-semibold lead position-relative">Supply & Installation</p>
                         <h1 class="display-3 fw-bold text-white mb-3">Access Control.</h1>
-                        <p class="mb-5"> At Hasnet Ict solution we provides all networking services, 
+                        <p class="mb-5"> At Hasnet ICT solution we provides networking services, 
                             from design and installation to ongoing support and maintenance<br>
                             </p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
@@ -169,38 +169,42 @@ require_once("./modal.php");
     <section class="affiliate-feature pb-120">
     <div class="container mt-5">
         <div class="row justify-content-center g-4">
-            <div class="col-xl-6 col-md-6">
+            <div class="col-xl-4 col-md-6">
                 <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/day and night.png" alt="Day / Night CCTV Camera" class="img-fluid">
+                    <img src="assets/img/affiliate/door-access-control.jpg" alt="Day / Night CCTV Camera" class="img-fluid">
                     <h4 class="mt-4 mb-20">Door Access Control</h4>
-                    <p class="mb-0">A day and night camera is a security camera that can see the picture during the day hours when there is enough sunlight, and during the night in total darkness or minimum illumination.</p>
+                    <p class="mb-0">Upgrade your security with our door access control systems featuring fingerprint, card, password, and face recognition. Enjoy advanced protection and effortless access management.</p>
                 </div>
             </div>
-            <div class="col-xl-6 col-md-6">
+            <div class="col-xl-4 col-md-6">
                 <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/infrared.png" alt="Infrared Vision CCTV Camera" class="img-fluid">
+                    <img src="assets/img/affiliate/time-attendance.jpg" alt="Infrared Vision CCTV Camera" class="img-fluid">
                     <h4 class="mt-4 mb-20">Time Attandance</h4>
-                    <p class="mb-0">Infrared cameras (IR) are sometimes referred to as IR cameras or Night Vision Security Cameras because of this. Infrared cameras have IR LEDs positioned around the outer edges of the camera lens which gives the camera its Night Vision.</p>
+                    <p class="mb-0">Streamline staff attendance monitoring with our advanced systems. Effortlessly track time and attendance for efficient workforce management.</p>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6">
+                <div class="aff-service-item text-center bg-white rounded">
+                    <img src="assets/img/affiliate/gate-motor.jpg" alt="Sliding Gate Opener" class="img-fluid">
+                    <h4 class="mt-4 mb-20">Gate Motors</h4>
+                    <p class="mb-0">Elevate your property's convenience and security with our professional gate motor installation services. Experience seamless access control and peace of mind, with the added convenience of gate operation via remote or smartphone.</p>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6">
+                <div class="aff-service-item text-center bg-white rounded">
+                    <img src="assets/img/affiliate/alarm.jpg" alt="Intruder Alarm Systems" class="img-fluid">
+                    <h4 class="mt-4 mb-20">Intruder Alarm</h4>
+                    <p class="mb-0">Protect your home or office with our intruder/burglar alarm system. Interconnected devices ensure comprehensive security, detecting and alerting you or our monitoring center of any breach in protected zones.</p>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6">
+                <div class="aff-service-item text-center bg-white rounded">
+                    <img src="assets/img/affiliate/electric-fence.jpg" alt="Intruder Alarm Systems" class="img-fluid">
+                    <h4 class="mt-4 mb-20">Electric Fence</h4>
+                    <p class="mb-0">Secure your perimeter with our electric fence solutions. We provide expert installation services and supply all related items, ensuring comprehensive protection for your property.</p>
                 </div>
             </div>
             
-         
-           
-           
-            <div class="col-xl-6 col-md-6">
-                <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/auto gate.png" alt="Sliding Gate Opener" class="img-fluid">
-                    <h4 class="mt-4 mb-20">Sliding Gate Opener</h4>
-                    <p class="mb-0">Sliding gate opener is the system that allows you to open/close your gate (at home or office) automatically by using a remote controller or by a click of a button. It saves your time and effort as you can do the opening of a gate from a distance, and as you reach the gate it is already open.</p>
-                </div>
-            </div>
-            <div class="col-xl-6 col-md-6">
-                <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/intruder alarm.png" alt="Intruder Alarm Systems" class="img-fluid">
-                    <h4 class="mt-4 mb-20">Intruder Alarm Systems</h4>
-                    <p class="mb-0">Intruder/burglar alarm system is a set of interconnected devices that is aimed to protect an object, usually a facility, against intruders and to notify the owner or/and the monitoring station/center of any violation of the protected zones.</p>
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -219,11 +223,10 @@ require_once("./modal.php");
                     <div class="hm-affiliate-hero-left">
                         <p class="fw-semibold lead position-relative">Supply & Installation</p>
                         <h1 class="display-3 fw-bold text-white mb-3">Networking.</h1>
-                        <p class="mb-5"> At Hasnet Ict solution we provides all networking services, 
+                        <p class="mb-5"> At Hasnet ICT solution we provides all networking services, 
                             from design and installation to ongoing support and maintenance<br>
                             <br>
-                            We have a wide range of products and services to suit your individual business needs,
-                             and our team of experts are always on hand to help you make the most of your network !</p>
+                            Explore our extensive stock of networking items, catering to all your needs. From essentials to advanced equipment, we have everything to ensure your network runs smoothly.</p>
                         <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
 
                          <!-- Get Quote Button -->
@@ -259,8 +262,7 @@ require_once("./modal.php");
                     </div>
                     <div class="col-xl-6 col-lg-6">
                         <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                            <p class="mb-0">We facilitate network sharing through inter-process communication, allowing access to shared resources like programs, data, and printers. Our expertise lies in installing and configuring routers and access points for offices and homes,
-                                 ensuring seamless internet connectivity via wired or wireless connections.</p>
+                            <p class="mb-0">From LAN installation to server configuration, trust us for comprehensive networking services. We also supply all necessary networking items, ensuring seamless connectivity and efficiency for your business.</p>
                         </div>
                     </div>
                 </div>
@@ -268,11 +270,9 @@ require_once("./modal.php");
                     <div class="row justify-content-center g-4">
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/network-sharing.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Network Sharing</h4>
-                                <p class="mb-0">Network sharing is made possible by inter-process communication over the network.
-                                     Some examples of shareable resources are computer programs, data, storage devices, and printers. 
-                                     E.g. shared file access (also known as disk sharing and folder sharing), shared printer access (printer sharing), shared scanner access, etc</p>
+                                <img src="assets/img/affiliate/networking.jpg" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Networking</h4>
+                                <p class="mb-0">Complete your networking needs with us. From routers and switches to access points, we supply all essentials. Plus, take advantage of our installation and configuration services for seamless integration.</p>
                             </div>
                         </div>
                        
@@ -280,24 +280,17 @@ require_once("./modal.php");
                        
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/phone.png" alt="icon" class="img-fluid">
-                                <h4 class="mt-4 mb-20">Extension Phone <br></h4>
-                                <p class="mb-0">Both systems are office phone extension systems that facilitate internal communication without extra 
-                                    charges for calls after installation. The first system operates similarly to a radio call within the office, 
-                                    simplifying daily tasks. The second system is more advanced, utilizing PBX technology, offering extensive control and monitoring capabilities over various features.
-
-                                </p>
+                                <img src="assets/img/affiliate/ip-phone.jpg" alt="icon" class="img-fluid">
+                                <h4 class="mt-4 mb-20">Extension Phones</h4>
+                                <p class="mb-0">Upgrade your communication system with our IP phone solutions. We supply, install, and configure IP phones tailored to your business needs, ensuring seamless connectivity and enhanced productivity.</p>
                             </div>
 
                         </div>
                         <div class="col-xl-4 col-md-6">
                             <div class="aff-service-item text-center bg-white rounded">
-                                <img src="assets/img/affiliate/switch.png" alt="icon" class="img-fluid">
+                                <img src="assets/img/affiliate/video-conference.jpg" alt="icon" class="img-fluid">
                                 <h4 class="mt-4 mb-20">Video Conference</h4>
-                                <p class="mb-0">We do installation and configuration of Network switches (Both with GUI & CLI)
-                                     for Office or even home uses.
-                                    Configuration: the process of setting up the switch for anabling network (intranet / internet) 
-                                    connnection via wires.</p>
+                                <p class="mb-0">Revolutionize your communication setup with our video conferencing solutions. We provide expert supply and installation services for seamless integration into your workplace.</p>
                             </div>
                         </div>
 
@@ -309,98 +302,7 @@ require_once("./modal.php");
     </section>
 
 
-    <!--hero section start-->
-    <section class="hm-affiliate-hero bg-secondary-gradient overflow-hidden ptb-120">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-xxl-5 col-lg-6 col-md-9">
-                    <div class="hm-affiliate-hero-left">
-                        <p class="fw-semibold lead position-relative">Supply & Installation</p>
-                        <h1 class="display-3 fw-bold text-white mb-3">Security Solutions.</h1>
-                        <p class="mb-5"> At Hasnet Ict solution we provides all networking services, 
-                            from design and installation to ongoing support and maintenance<br>
-                            </p>
-                        <!-- <a href="contact.php" class="template-btn primary-btn">Contact Us</a> -->
-
-                         <!-- Get Quote Button -->
-                          
- <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                              <b>Get Quote</b>
-                              
-                            </button>
-
-                            <!-- Get Quote Button -->
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-9">
-                    <div class="hm-affiliate-hero-right">
-                        <img src="assets/img/affiliate/network-header-01.png" alt="hero shape" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--hero section end-->
-    <!--affiliate feature end-->
-
-
-    <section class="affiliate-feature pb-120">
-        <div class="container">
-
-            <div class="aff-feature-bottom pt-120">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-title">
-                            <h1 class="mb-0">Security Essentials.</h1>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6">
-                        <div class="section-desc ps-xl-5 mt-3 mt-lg-0">
-                            <p class="mb-0">We facilitate network sharing through inter-process communication, allowing access to shared resources like programs, data, and printers. Our expertise lies in installing and configuring routers and access points for offices and homes,
-                                 ensuring seamless internet connectivity via wired or wireless connections.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mt-5">
-                    <div class="row justify-content-center g-4">
-                       
-                    <div class="col-xl-4 col-md-6">
-                <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/intruder alarm.png" alt="Intruder Alarm Systems" class="img-fluid">
-                    <h4 class="mt-4 mb-20">Electric Fence</h4>
-                    <p class="mb-0">Intruder/burglar alarm system is a set of interconnected devices that is aimed to protect an object, usually a facility, against intruders and to notify the owner or/and the monitoring station/center of any violation of the protected zones.</p>
-                </div>
-            </div>   
-
-                        <div class="col-xl-4 col-md-6">
-                <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/auto gate.png" alt="Sliding Gate Opener" class="img-fluid">
-                    <h4 class="mt-4 mb-20">Sliding Gate Opener</h4>
-                    <p class="mb-0">Sliding gate opener is the system that allows you to open/close your gate (at home or office) automatically by using a remote controller or by a click of a button. It saves your time and effort as you can do the opening of a gate from a distance, and as you reach the gate it is already open.</p>
-                </div>
-            </div>
-
-
-            <div class="col-xl-4 col-md-6">
-                <div class="aff-service-item text-center bg-white rounded">
-                    <img src="assets/img/affiliate/intruder alarm.png" alt="Intruder Alarm Systems" class="img-fluid">
-                    <h4 class="mt-4 mb-20">Intruder Alarm Systems</h4>
-                    <p class="mb-0">Intruder/burglar alarm system is a set of interconnected devices that is aimed to protect an object, usually a facility, against intruders and to notify the owner or/and the monitoring station/center of any violation of the protected zones.</p>
-                </div>
-            </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-
-
-
-
-
+    
  <!-- Footer -->
  <?php
     require_once("./footer.php");
