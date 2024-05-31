@@ -111,7 +111,7 @@
                                     
                    
                                     <li><a href="#">Buy Products</a></li>
-                                    <li><a href="gallery.php">Portfolio</a></li>
+                                    <li><a href="portfolio.php">Portfolio</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
 
 

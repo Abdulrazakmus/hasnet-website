@@ -209,6 +209,8 @@ require_once("./modal.php");
 
 
 
+
+
                         <!-- CONSULTANCY SECTION START HERE -->
 
 
@@ -217,8 +219,9 @@ require_once("./modal.php");
     <div class="container">
         <div class="row">
             
+        <hr class="mb-5">
                   
-                    <div class="sidebar-widget tags-widget">
+                    <!-- <div class="sidebar-widget tags-widget">
                         <h4 class="widget-title">Our Services.</h4>
                         <div class="tags-list mt-3">
                             <a href="software-development.php">software Development</a>
@@ -231,7 +234,7 @@ require_once("./modal.php");
                             <a href="consulancy & training.php">ICT Consultancy</a>
 
                         </div>
-                    </div>
+                    </div> -->
                     
                     <div class="sidebar-widget banner-widget">
                         <div class="banner-content bg-primary-gradient rounded-2 text-center position-relative zindex-1 overflow-hidden">
