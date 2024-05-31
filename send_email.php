@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['form_type'] == 'contact_form
 
     // Process form data (e.g., send email, save to database)
     // Example:
-    $to = "abdulrazak.jmus@gmail.com";
+    $to = "info@hasnet.co.tz,abdulrazak.jmus@gmail.com";
     $headers = "From: " . $email . "\r\n" .
                "Reply-To: " . $email . "\r\n" .
                "X-Mailer: PHP/" . phpversion();

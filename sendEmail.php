@@ -8,7 +8,7 @@ if (isset($_POST['submit'])) {
     $serviceOption = $_POST['serviceOption'];
     $msg = $_POST['message'];
 
-    $to = 'abdulrazak.jmus@gmail.com';
+    $to = 'info@hasnet.co.tz,abdulrazak.jmus@gmail.com';
     $subject = 'Website Message';
 
     // Create an HTML-formatted email message

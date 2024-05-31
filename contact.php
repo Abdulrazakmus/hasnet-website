@@ -3,6 +3,34 @@
 <head>
     <?php require_once("./links.php"); ?>
     <title>Contact : Hasnet ICT Solution</title>
+    <!-- Add a script for handling form submission and displaying the popup -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('contactForm').addEventListener('submit', function(event) {
+                event.preventDefault();
+                // Collect form data
+                var formData = new FormData(this);
+
+                // Send form data via AJAX
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', 'send_email.php', true);
+                xhr.onreadystatechange = function() {
+                    if (xhr.readyState === XMLHttpRequest.DONE) {
+                        if (xhr.status === 200) {
+                            // Display a popup indicating success
+                            alert('Message sent successfully!');
+                            // Optionally, reset the form
+                            document.getElementById('contactForm').reset();
+                        } else {
+                            // Display a popup indicating failure
+                            alert('Failed to send message. Please try again later.');
+                        }
+                    }
+                };
+                xhr.send(formData);
+            });
+        });
+    </script>
 </head>
 <body>
 
