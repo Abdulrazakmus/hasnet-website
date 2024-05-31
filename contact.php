@@ -36,7 +36,7 @@
                     <div class="hero1-content-wrap">
                         <h1 class="display-font mt-4">Contact us,<br> Feel free to contact</h1>
                         <p class="mt-4">Easily accessible customer service is crucial in today's 24-hour, online business environment Hostim's experienced team Members.</p>
-                        <a href="#" class="template-btn primary-btn rounded-pill mt-4"><span class="me-2"><i class="fa-solid fa-comments"></i></span>Live Chat</a>
+                        <a href="https://wa.me/255717323132" class="template-btn secondary-btn rounded-pill mt-4"><span class="me-2"><i class="fa-solid fa-comments"></i></span>Live Chat</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
