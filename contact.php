@@ -27,66 +27,67 @@
 
     <!-- Breadcrumb area start -->
     <section class="hero-style-1 contact-hero bg-white">
-        <div class="hero-area overflow-hidden position-relative zindex-1 bg-primary-gradient pt-120">
-            <img src="assets/img/shapes/circle.svg" alt="circle shape" class="circle-shape position-absolute">
-            <img src="assets/img/shapes/contact-hero-left.png" alt="circle" class="left-bottom position-absolute">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="hero1-content-wrap">
-                            <h1 class="display-font mt-4">Contact us,<br> Feel free to contact</h1>
-                            <p class="mt-4">Easily accessible customer service is crucial in today's 24-hour, online business environment Hostim's experienced team Members.</p>
-                            <a href="#" class="template-btn primary-btn rounded-pill mt-4"><span class="me-2"><i class="fa-solid fa-comments"></i></span>Live Chat</a>
+    <div class="hero-area overflow-hidden position-relative zindex-1 bg-primary-gradient pt-120">
+        <img src="assets/img/shapes/circle.svg" alt="circle shape" class="circle-shape position-absolute">
+        <img src="assets/img/shapes/contact-hero-left.png" alt="circle" class="left-bottom position-absolute">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="hero1-content-wrap">
+                        <h1 class="display-font mt-4">Contact us,<br> Feel free to contact</h1>
+                        <p class="mt-4">Easily accessible customer service is crucial in today's 24-hour, online business environment Hostim's experienced team Members.</p>
+                        <a href="#" class="template-btn primary-btn rounded-pill mt-4"><span class="me-2"><i class="fa-solid fa-comments"></i></span>Live Chat</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="hero-right text-center text-lg-end"> <!-- Added 'text-center text-lg-end' classes -->
+                        <img src="assets/img/0001.svg" alt="hero image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hm-contact-info promo-area position-relative">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 col-sm-10">
+                    <div class="hm-ct-info-wrapper rounded text-center"> <!-- Added 'text-center' class -->
+                        <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
+                          <i class="fa-solid fa-phone"></i>
+                      </span>
+                        <div class="info-content mt-4">
+                            <h4>Hotline</h4>
+                            <span>+255 717 323 132</span>
                         </div>
                     </div>
-                    <div class="col-lg-6">
-                        <div class="hero-right">
-                            <img src="assets/img/0001.svg" alt="hero image">
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-10">
+                    <div class="hm-ct-info-wrapper rounded text-center"> <!-- Added 'text-center' class -->
+                        <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
+                          <i class="fa-solid fa-at"></i>
+                      </span>
+                        <div class="info-content mt-4">
+                            <h4>Email Us</h4>
+                            <span><a href="mailto:info@hasnet.co.tz">info@hasnet.co.tz</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-10">
+                    <div class="hm-ct-info-wrapper rounded text-center"> <!-- Added 'text-center' class -->
+                        <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
+                          <i class="fa-solid fa-house"></i>
+                      </span>
+                        <div class="info-content mt-4">
+                            <h4>Address</h4>
+                            <span>Taveta Street, Fuoni Road, Zanzibar - Tanzania</span>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="hm-contact-info promo-area position-relative">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 col-sm-10">
-                        <div class="hm-ct-info-wrapper rounded">
-                            <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
-                              <i class="fa-solid fa-phone"></i>
-                          </span>
-                            <div class="info-content mt-4">
-                                <h4>Hotline</h4>
-                                <span>+255 777 01 99 01</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10">
-                        <div class="hm-ct-info-wrapper rounded">
-                            <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
-                              <i class="fa-solid fa-at"></i>
-                          </span>
-                            <div class="info-content mt-4">
-                                <h4>Email Us</h4>
-                                <span><a href="mailto:info@hasnet.co.tz">info@hasnet.co.tz</a></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-10">
-                        <div class="hm-ct-info-wrapper rounded">
-                            <span class="icon-wrapper rounded-circle d-inline-flex align-items-center justify-content-center">
-                              <i class="fa-solid fa-house"></i>
-                          </span>
-                            <div class="info-content mt-4">
-                                <h4>Address</h4>
-                                <span>Taveta Street, Fuoni Road, Zanzibar - Tanzania</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    </div>
+</section>
+
     <!-- Breadcrumb area end -->
 
     <!-- Contact form -->
@@ -105,7 +106,7 @@
                 <div class="col-12 pb-3 message-box d-none">
                     <div class="alert alert-danger"></div>
                 </div>
-                <form id="contactForm" class="contact-us-form">
+                <form action="send_email.php" method="POST" id="contactForm" class="contact-us-form">
                     <input type="hidden" name="form_type" value="contact_form">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -167,28 +168,13 @@
     <!-- Footer -->
     <?php require_once("./footer.php"); ?>
 
-    <!-- JavaScript for form submission and popup message -->
+    <!-- JavaScript for debugging -->
     <script>
         document.getElementById('contactForm').addEventListener('submit', function(event) {
             event.preventDefault();
-            
-            // Form data
-            var formData = new FormData(this);
-
-            // AJAX request
-            var xhr = new XMLHttpRequest();
-            xhr.open("POST", "send_email.php", true);
-            xhr.onload = function() {
-                if (xhr.status === 200) {
-                    alert("Message sent successfully!");
-                } else {
-                    alert("Failed to send message.");
-                }
-            };
-            xhr.onerror = function() {
-                alert("An error occurred while sending the message.");
-            };
-            xhr.send(formData);
+            console.log('Form submitted');
+            // Add more debugging as needed
+            this.submit(); // Remove this line if you are using AJAX to handle form submission
         });
     </script>
 </body>
