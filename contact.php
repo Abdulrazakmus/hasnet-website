@@ -57,7 +57,7 @@
                           </span>
                             <div class="info-content mt-4">
                                 <h4>Hotline</h4>
-                                <span>+255 717 323 132</span>
+                                <span>+255 777 01 99 01</span>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                 <div class="col-12 pb-3 message-box d-none">
                     <div class="alert alert-danger"></div>
                 </div>
-                <form action="send_email.php" method="POST" id="contactForm" class="contact-us-form">
+                <form id="contactForm" class="contact-us-form">
                     <input type="hidden" name="form_type" value="contact_form">
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
@@ -167,13 +167,28 @@
     <!-- Footer -->
     <?php require_once("./footer.php"); ?>
 
-    <!-- JavaScript for debugging -->
+    <!-- JavaScript for form submission and popup message -->
     <script>
         document.getElementById('contactForm').addEventListener('submit', function(event) {
             event.preventDefault();
-            console.log('Form submitted');
-            // Add more debugging as needed
-            this.submit(); // Remove this line if you are using AJAX to handle form submission
+            
+            // Form data
+            var formData = new FormData(this);
+
+            // AJAX request
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "send_email.php", true);
+            xhr.onload = function() {
+                if (xhr.status === 200) {
+                    alert("Message sent successfully!");
+                } else {
+                    alert("Failed to send message.");
+                }
+            };
+            xhr.onerror = function() {
+                alert("An error occurred while sending the message.");
+            };
+            xhr.send(formData);
         });
     </script>
 </body>
