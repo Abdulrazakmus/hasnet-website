@@ -17,7 +17,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST['form_type'] == 'contact_form
     if (mail($to, $subject, $body, $headers)) {
         echo "Message sent successfully!";
     } else {
-        echo "Failed to send message.";
+        echo "Failed to send message. Error: " . error_get_last()['message'];
     }
 } else {
     echo "Invalid form submission.";
