@@ -1,4 +1,3 @@
-
 <?php 
 require_once("./links.php");
 ?>
@@ -120,68 +119,84 @@ require_once("./modal.php");
         
         <!--contact form -->
         <section class="hm-contact-area position-relative pt-60 pb-120 overflow-hidden bg-white zindex-1">
-            <img src="assets/img/contact-bg-left.png" alt="contact" class="position-absolute left-bottom">
-            <img src="assets/img/contact-bg-right.png" alt="contact" class="position-absolute right-bottom">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-5">
-                        <div class="ct-section-title text-center">
-                            <h2>Send Us Message!</h2>
-                        </div>
-                    </div>
+    <img src="assets/img/contact-bg-left.png" alt="contact" class="position-absolute left-bottom">
+    <img src="assets/img/contact-bg-right.png" alt="contact" class="position-absolute right-bottom">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-5">
+                <div class="ct-section-title text-center">
+                    <h2>Send Us Message!</h2>
                 </div>
-                <div class="hm-contact-form mt-5" id="contact">
-                    <div class="col-12 pb-3 message-box d-none">
-                        <div class="alert alert-danger"></div>
-                    </div>
-                    <form action="#" method="POST" id="contactForm" class="contact-us-form">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-8">
-                                <div class="row g-4">
-                                    <div class="col-md-6">
-                                        <div class="input-field">
-                                            <label for="name">Name</label>
-                                            <input type="text" class="" name="name" id="name" placeholder="Enter name" required="required">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="input-field">
-                                            <label for="email">Email</label>
-                                            <input type="email" class="" name="email" id="email" placeholder="Enter email" required="required">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="input-field">
-                                            <label for="phone">Phone</label>
-                                            <input type="text" class="" name="phone" id="phone" placeholder="Enter phone" required="required">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="input-field">
-                                            <label for="subject">Subject</label>
-                                            <input type="text" class="" name="subject" id="subject" placeholder="Enter subject" required="required">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12">
-                                        <div class="input-field">
-                                            <label for="message">Message</label>
-                                            <textarea placeholder="Write Message" rows="5" name="message" id="message"></textarea>
-                                        </div>
-                                    </div>
+            </div>
+        </div>
+        <div class="hm-contact-form mt-5" id="contact">
+            <div class="col-12 pb-3 message-box d-none">
+                <div class="alert alert-danger"></div>
+            </div>
+            <form action="send_email.php" method="POST" id="contactForm" class="contact-us-form">
+                <input type="hidden" name="form_type" value="contact_form">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <div class="input-field">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" id="name" placeholder="Enter name" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-field">
+                                    <label for="email">Email</label>
+                                    <input type="email" name="email" id="email" placeholder="Enter email" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-field">
+                                    <label for="phone">Phone</label>
+                                    <input type="text" name="phone" id="phone" placeholder="Enter phone" required>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="input-field">
+                                    <label for="subject">Subject</label>
+                                    <input type="text" name="subject" id="subject" placeholder="Enter subject" required>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="input-field">
+                                    <label for="message">Message</label>
+                                    <textarea name="message" id="message" placeholder="Write Message" rows="5" required></textarea>
                                 </div>
                             </div>
                         </div>
-                        <div class="submit-btn text-center mt-4">
-                            <button type="submit" class="template-btn primary-btn border-0 rounded-pill">Send Message<i class="fa-solid fa-chevron-right ms-2"></i></button>
-                        </div>
-                    </form>
+                    </div>
                 </div>
-                
-            </div>
-            
-        </section>
+                <div class="submit-btn text-center mt-4">
+                    <button type="submit" class="template-btn primary-btn border-0 rounded-pill">Send Message<i class="fa-solid fa-chevron-right ms-2"></i></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+
+
 
         <!--contact form end -->
+
+      <!-- Google Maps Embed -->
+<section class="google-maps-section">
+    <div class="container-fluid"> <!-- Use container-fluid to make it full-width -->
+        <div class="row justify-content-center">
+            <div class="col-lg-12">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d63465.48000520644!2d39.195812937187114!3d-6.185253480970965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x185cda1a55555555%3A0xdd93c25065d2cb68!2sHASNET%20ICT%20SOLUTION%2C%20Taveta%20Zanzibar%2C%203302%2C%20Tanzania!3m2!1d-6.185340399999999!2d39.237012299999996!4m5!1s0x185cda1a55555555%3A0xdd93c25065d2cb68!2sHASNET%20ICT%20SOLUTION%2C%20Taveta%20Zanzibar%2C%203302%2C%20Tanzania!3m2!1d-6.185340399999999!2d39.237012299999996!5e0!3m2!1sen!2stz!4v1717154082733!5m2!1sen!2stz" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Google Maps Embed -->
+
+
 
          <!-- Footer -->
     <?php
